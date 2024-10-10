@@ -2493,45 +2493,6 @@ Although a subjective topic, conductors and orchestras are excluded from this li
     Joint 7th
    </td>
    <td rowspan="3">
-    André Previn
-   </td>
-   <td rowspan="3">
-    3
-   </td>
-   <td>
-    Britten: Four Sea Interludes from Peter Grimes, Op. 33a: No. 4, Storm
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001f5kc" target="_blank">
-     Series 4, ep. 7, track 4
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Die Fledermaus / Act 1: "Ach, ich darf nicht hin zu dir!"
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001xfxf" target="_blank">
-     Series 8, ep. 7, track 1
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Mendelssohn: A Midsummer Night's Dream, Op. 61, MWV M13: No. 9, Wedding March
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001zmbr" target="_blank">
-     Series 9, ep. 2, track 2
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="3">
-    Joint 7th
-   </td>
-   <td rowspan="3">
     Maria Callas
    </td>
    <td rowspan="3">
@@ -2646,7 +2607,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="2">
-    Joint 16th
+    Joint 15th
    </td>
    <td rowspan="2">
     Antônio Carlos Jobim
@@ -2675,7 +2636,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="2">
-    Joint 16th
+    Joint 15th
    </td>
    <td rowspan="2">
     Claude Debussy
@@ -2704,7 +2665,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="2">
-    Joint 16th
+    Joint 15th
    </td>
    <td rowspan="2">
     Juliette Gréco
@@ -2733,7 +2694,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="2">
-    Joint 16th
+    Joint 15th
    </td>
    <td rowspan="2">
     Björk
@@ -2762,7 +2723,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="2">
-    Joint 16th
+    Joint 15th
    </td>
    <td rowspan="2">
     The Hilliard Ensemble
@@ -2786,6 +2747,35 @@ Although a subjective topic, conductors and orchestras are excluded from this li
    <td width="192">
     <a href="https://www.bbc.co.uk/programmes/m001wy3f" target="_blank">
      Series 8, ep. 5, track 3
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="2">
+    Joint 15th
+   </td>
+   <td rowspan="2">
+    Nina Simone
+   </td>
+   <td rowspan="2">
+    2
+   </td>
+   <td>
+    Sinnerman
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m0010ntz" target="_blank">
+     Series 1, ep. 3, track 4
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Don't Let Me Be Misunderstood
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m0021xvw" target="_blank">
+     Series 10, ep. 1, track 5
     </a>
    </td>
   </tr>
