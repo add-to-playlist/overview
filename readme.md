@@ -3185,6 +3185,45 @@ Although a subjective topic, conductors and orchestras are excluded from this li
     Joint 10th
    </td>
    <td rowspan="3">
+    Leonard Bernstein
+   </td>
+   <td rowspan="3">
+    3
+   </td>
+   <td>
+    America
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m0019kdt" target="_blank">
+     Series 3, ep. 9, track 4
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Overture to Candide
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m001dp3f" target="_blank">
+     Series 4, ep. 5, track 3
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Maria from West Side Story Suite - Instrumental
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m0029hwy" target="_blank">
+     Series 12, ep. 7, track 2
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="3">
+    Joint 10th
+   </td>
+   <td rowspan="3">
     Gustav Mahler
    </td>
    <td rowspan="3">
@@ -3260,7 +3299,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="2">
-    Joint 18th
+    Joint 19th
    </td>
    <td rowspan="2">
     Antônio Carlos Jobim
@@ -3289,7 +3328,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="2">
-    Joint 18th
+    Joint 19th
    </td>
    <td rowspan="2">
     Juliette Gréco
@@ -3318,7 +3357,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="2">
-    Joint 18th
+    Joint 19th
    </td>
    <td rowspan="2">
     Björk
@@ -3347,7 +3386,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="2">
-    Joint 18th
+    Joint 19th
    </td>
    <td rowspan="2">
     The Hilliard Ensemble
@@ -3376,7 +3415,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="2">
-    Joint 18th
+    Joint 19th
    </td>
    <td rowspan="2">
     Nina Simone
@@ -3405,7 +3444,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="2">
-    Joint 18th
+    Joint 19th
    </td>
    <td rowspan="2">
     Simon Preston
@@ -3434,7 +3473,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="2">
-    Joint 18th
+    Joint 19th
    </td>
    <td rowspan="2">
     Charmian Carr
@@ -3458,35 +3497,6 @@ Although a subjective topic, conductors and orchestras are excluded from this li
    <td width="192">
     <a href="https://www.bbc.co.uk/programmes/m001dxqc" target="_blank">
      Series 4, ep. 6, track 5
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="2">
-    Joint 18th
-   </td>
-   <td rowspan="2">
-    Richard Wagner
-   </td>
-   <td rowspan="2">
-    2
-   </td>
-   <td>
-    Das Rheingold, Scene 2: Sanft schloß Schlaf dein Aug'
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0011lq4" target="_blank">
-     Series 1, ep. 7, track 1
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Das Rheingold, Scene 1: Weia! Waga! Woge du Welle! - 2012 Remaster
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001xng0" target="_blank">
-     Series 8, ep. 8, track 1
     </a>
    </td>
   </tr>
@@ -4695,10 +4705,6 @@ Although a subjective topic, conductors and orchestras are excluded from this li
    </td>
    <td>
     Dmitri Shostakovich
-    <br/>
-    Leonard Bernstein
-    <br/>
-    New York Philharmonic
    </td>
    <td>
     <a href="https://open.spotify.com/track/0P0LAsqiavYc6V54JSeseB" target="_blank">
@@ -4925,18 +4931,6 @@ Although a subjective topic, conductors and orchestras are excluded from this li
    </td>
    <td>
     Nikolai Rimsky-Korsakov
-    <br/>
-    John Corigliano
-    <br/>
-    New York Philharmonic
-    <details>
-     <summary>
-      <em>
-       +1 more
-      </em>
-     </summary>
-     Leonard Bernstein
-    </details>
    </td>
    <td>
     <a href="https://open.spotify.com/track/6weAJf248OVDpE2lP1luqy" target="_blank">
@@ -6341,17 +6335,19 @@ Although a subjective topic, conductors and orchestras are excluded from this li
     4
    </td>
    <td>
+    Leonard Bernstein
+    <br/>
     Ariana DeBose
     <br/>
     David Alvarez
-    <br/>
-    Ana Isabelle
     <details>
      <summary>
       <em>
-       +29 more
+       +30 more
       </em>
      </summary>
+     Ana Isabelle
+     <br/>
      Jennifer Florentino
      <br/>
      Natalie Toro
@@ -6816,10 +6812,6 @@ Although a subjective topic, conductors and orchestras are excluded from this li
    </td>
    <td>
     Modest Mussorgsky
-    <br/>
-    Leonard Bernstein
-    <br/>
-    New York Philharmonic
    </td>
    <td>
     <a href="https://open.spotify.com/track/5rPqo5uyPn5MDoJkkiu8Nr" target="_blank">
@@ -7677,10 +7669,6 @@ Although a subjective topic, conductors and orchestras are excluded from this li
    </td>
    <td>
     Igor Stravinsky
-    <br/>
-    Leonard Bernstein
-    <br/>
-    London Symphony Orchestra
    </td>
    <td>
     <a href="https://open.spotify.com/track/1stsCnrbAZJFYqBYxmkGH9" target="_blank">
@@ -9412,40 +9400,6 @@ The second guest presenter was ill and did not appear in this episode. They stil
    </td>
    <td>
     Ludwig van Beethoven
-    <br/>
-    June Anderson
-    <br/>
-    Sarah Walker
-    <details>
-     <summary>
-      <em>
-       +12 more
-      </em>
-     </summary>
-     Klaus König
-     <br/>
-     Jan-Hendrik Rootering
-     <br/>
-     Members of the Staatskapelle Dresden
-     <br/>
-     Members of the Kirov Orchestra, Leningrad
-     <br/>
-     Members Of The London Symphony Orchestra
-     <br/>
-     Members Of The New York Philharmonic
-     <br/>
-     Members of the Orchestre de Paris
-     <br/>
-     Bavarian Radio Symphony Orchestra
-     <br/>
-     Leonard Bernstein
-     <br/>
-     Bavarian Radio Chorus
-     <br/>
-     Berlin Radio Chorus, Members
-     <br/>
-     Dresden Philharmonic Childrens Chorus
-    </details>
    </td>
    <td>
     <a href="https://open.spotify.com/track/5m3D0yRJBtXS7gYp3kIzPI" target="_blank">
@@ -10972,10 +10926,6 @@ Although indicating she would return in six months (November 2024), this is Cery
    </td>
    <td>
     Gustav Mahler
-    <br/>
-    New York Philharmonic
-    <br/>
-    Leonard Bernstein
    </td>
    <td>
     <a href="https://open.spotify.com/track/45xKL1tIdKMBc8y6CcX8Iu" target="_blank">
