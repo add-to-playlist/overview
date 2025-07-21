@@ -16,7 +16,7 @@ Also included are links to several Spotify playlists: one playlist per series, a
 
 Most of the data shown in the tables below was gathered automatically by scraping each episode's BBC Sounds page, parsing the HTML, then querying Spotify's Web API to find a recording.
 
-Due to the nature of Spotifys API, there may be slight inconsistencies between the Spotify link and the version of the track played in the show, e.g. a remixed version may appear before the original version in Spotify's search results.
+Due to the nature of Spotify's API, there may be slight inconsistencies between the Spotify link and the version of the track played in the show, e.g. a remixed version may appear before the original version in Spotify's search results.
 
 Care has been taken, however, to find the exact recordings used in the show where possible (by using music identification software such as Shazam and SoundHound).
 
