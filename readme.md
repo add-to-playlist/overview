@@ -20,7 +20,7 @@ Due to the nature of Spotify's API, there may be slight inconsistencies between 
 
 Care has been taken, however, to find the exact recordings used in the show where possible (by using music identification software such as Shazam and SoundHound).
 
-The descriptions of how the tracks relate to each other were written manually up until series 4, episode 7, when AI was used to speed up the process - first, using [Whisper](https://github.com/openai/whisper) to create transcripts of each episode, then uploading the transcripts to [Claude](https://claude.ai/new) and [DeepSeek](https://chat.deepseek.com/) for analysis. Finally, the AI output was reviewed, corrected when needed, and then added to the tables.
+The descriptions of how the tracks relate to each other were written manually up until series 4, episode 7, when AI was used to speed up the process - first, using [Whisper](https://github.com/openai/whisper) to create transcripts of each episode, then uploading the transcripts to [Claude](https://claude.ai/) and [DeepSeek](https://chat.deepseek.com/) for analysis. Finally, the AI output was reviewed, corrected when needed, and then added to the tables.
 
 Although care has been taken to make this page as accurate as possible, there will probably be a few mistakes; corrections are therefore very much welcomed!
 
@@ -45,6 +45,8 @@ Although care has been taken to make this page as accurate as possible, there wi
 13. [Series 11](#series-11)
 14. [Series 12](#series-12)
 15. [Series 13](#series-13)
+16. [Series 14](#series-14)
+17. [Series 15](#series-15)
 
 
 
@@ -2444,6 +2446,292 @@ A Spotify playlist containing every track chosen in the series so far can be fou
     </a>
    </td>
   </tr>
+  <tr>
+   <td align="center" rowspan="6">
+    14
+   </td>
+   <td>
+    102
+   </td>
+   <td>
+    1
+   </td>
+   <td>
+    511
+   </td>
+   <td>
+    19 August 2025
+   </td>
+   <td rowspan="6">
+    <span>
+     <img height="16" src="images/spotify.png" width="16"/>
+    </span>
+    <a href="https://open.spotify.com/playlist/0u91zsKlBcsnfeFkqcfSNG" target="_blank">
+     Spotify
+    </a>
+   </td>
+   <td>
+    <span>
+     <img height="16" src="images/bbc-sounds.png" width="16"/>
+    </span>
+    <a href="https://www.bbc.co.uk/programmes/m002gl77" target="_blank">
+     BBC Sounds
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    103
+   </td>
+   <td>
+    2
+   </td>
+   <td>
+    516
+   </td>
+   <td>
+    26 August 2025
+   </td>
+   <td>
+    <span>
+     <img height="16" src="images/bbc-sounds.png" width="16"/>
+    </span>
+    <a href="https://www.bbc.co.uk/programmes/m002gl7b" target="_blank">
+     BBC Sounds
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    104
+   </td>
+   <td>
+    3
+   </td>
+   <td>
+    521
+   </td>
+   <td>
+    2 September 2025
+   </td>
+   <td>
+    <span>
+     <img height="16" src="images/bbc-sounds.png" width="16"/>
+    </span>
+    <a href="https://www.bbc.co.uk/programmes/m002hmrg" target="_blank">
+     BBC Sounds
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    105
+   </td>
+   <td>
+    4
+   </td>
+   <td>
+    526
+   </td>
+   <td>
+    9 September 2025
+   </td>
+   <td>
+    <span>
+     <img height="16" src="images/bbc-sounds.png" width="16"/>
+    </span>
+    <a href="https://www.bbc.co.uk/programmes/m002htdw" target="_blank">
+     BBC Sounds
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    106
+   </td>
+   <td>
+    5
+   </td>
+   <td>
+    531
+   </td>
+   <td>
+    16 September 2025
+   </td>
+   <td>
+    <span>
+     <img height="16" src="images/bbc-sounds.png" width="16"/>
+    </span>
+    <a href="https://www.bbc.co.uk/programmes/m002j641" target="_blank">
+     BBC Sounds
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    107
+   </td>
+   <td>
+    6
+   </td>
+   <td>
+    536
+   </td>
+   <td>
+    23 September 2025
+   </td>
+   <td>
+    <span>
+     <img height="16" src="images/bbc-sounds.png" width="16"/>
+    </span>
+    <a href="https://www.bbc.co.uk/programmes/m002jhn1" target="_blank">
+     BBC Sounds
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td align="center" rowspan="6">
+    15
+   </td>
+   <td>
+    108
+   </td>
+   <td>
+    1
+   </td>
+   <td>
+    541
+   </td>
+   <td>
+    18 November 2025
+   </td>
+   <td rowspan="6">
+    <span>
+     <img height="16" src="images/spotify.png" width="16"/>
+    </span>
+    <a href="https://open.spotify.com/playlist/7EL2wFkXWFZblO8zu8Q2A8" target="_blank">
+     Spotify
+    </a>
+   </td>
+   <td>
+    <span>
+     <img height="16" src="images/bbc-sounds.png" width="16"/>
+    </span>
+    <a href="https://www.bbc.co.uk/programmes/m002m1nx" target="_blank">
+     BBC Sounds
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    109
+   </td>
+   <td>
+    2
+   </td>
+   <td>
+    546
+   </td>
+   <td>
+    25 November 2025
+   </td>
+   <td>
+    <span>
+     <img height="16" src="images/bbc-sounds.png" width="16"/>
+    </span>
+    <a href="https://www.bbc.co.uk/programmes/m002mc5n" target="_blank">
+     BBC Sounds
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    110
+   </td>
+   <td>
+    3
+   </td>
+   <td>
+    551
+   </td>
+   <td>
+    2 December 2025
+   </td>
+   <td>
+    <span>
+     <img height="16" src="images/bbc-sounds.png" width="16"/>
+    </span>
+    <a href="https://www.bbc.co.uk/programmes/m002mn12" target="_blank">
+     BBC Sounds
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    111
+   </td>
+   <td>
+    4
+   </td>
+   <td>
+    556
+   </td>
+   <td>
+    9 December 2025
+   </td>
+   <td>
+    <span>
+     <img height="16" src="images/bbc-sounds.png" width="16"/>
+    </span>
+    <a href="https://www.bbc.co.uk/programmes/m002n0s4" target="_blank">
+     BBC Sounds
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    112
+   </td>
+   <td>
+    5
+   </td>
+   <td>
+    561
+   </td>
+   <td>
+    12 December 2025
+   </td>
+   <td>
+    <span>
+     <img height="16" src="images/bbc-sounds.png" width="16"/>
+    </span>
+    <a href="https://www.bbc.co.uk/programmes/m002n7ps" target="_blank">
+     BBC Sounds
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    113
+   </td>
+   <td title="This episode was a one-off special.">
+    6*
+   </td>
+   <td>
+    566
+   </td>
+   <td>
+    23 December 2025
+   </td>
+   <td>
+    <span>
+     <img height="16" src="images/bbc-sounds.png" width="16"/>
+    </span>
+    <a href="https://www.bbc.co.uk/programmes/m002nl2r" target="_blank">
+     BBC Sounds
+    </a>
+   </td>
+  </tr>
  </tbody>
 </table>
 
@@ -2476,14 +2764,14 @@ Although a subjective topic, conductors and orchestras are excluded from this li
  </thead>
  <tbody>
   <tr>
-   <td rowspan="5">
+   <td rowspan="6">
     Joint 1st
    </td>
-   <td rowspan="5">
+   <td rowspan="6">
     Wolfgang Amadeus Mozart
    </td>
-   <td rowspan="5">
-    5
+   <td rowspan="6">
+    6
    </td>
    <td>
     12 Variations in C Major on "Ah, vous dirai-je Maman", K. 265: Variation No. 3
@@ -2535,8 +2823,215 @@ Although a subjective topic, conductors and orchestras are excluded from this li
    </td>
   </tr>
   <tr>
-   <td rowspan="5">
+   <td>
+    Requiem, K. 626 (Ed. Beyer/Levin): IIIb. Tuba mirum - Live
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m002htdw" target="_blank">
+     Series 14, ep. 4, track 3
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="6">
     Joint 1st
+   </td>
+   <td rowspan="6">
+    Johann Sebastian Bach
+   </td>
+   <td rowspan="6">
+    6
+   </td>
+   <td>
+    Toccata and Fugue in D Minor, BWV 565
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m0015bc3" target="_blank">
+     Series 2, ep. 7, track 1
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Orchestral Suite No. 3 in D, BWV 1068: 2. Air
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m001k17h" target="_blank">
+     Series 5, ep. 6, track 4
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    The Well-Tempered Clavier, Book 1, BWV 846-869: Prelude and Fugue in C Major, BWV 846
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m001wrm8" target="_blank">
+     Series 8, ep. 4, track 1
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Concerto for Two Violins in D Minor, BWV 1043: I. Vivace
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m002309s" target="_blank">
+     Series 10, ep. 6, track 1
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Organ Sonata No. 4, BWV 528: II. Andante [Adagio] (Transcr. by August Stradal)
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m002j641" target="_blank">
+     Series 14, ep. 5, track 3
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Christmas Oratorio, BWV 248, Pt. 2: No. 10, Sinfonia
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m002nl2r" target="_blank">
+     Series 15, ep. 6, track 2
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="6">
+    Joint 1st
+   </td>
+   <td rowspan="6">
+    Ludwig van Beethoven
+   </td>
+   <td rowspan="6">
+    6
+   </td>
+   <td>
+    Symphony No. 3 in E-Flat Major, Op. 55 “Eroica”: I. Allegro con brio
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m0017tjx" target="_blank">
+     Series 3, ep. 1, track 5
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Symphony No. 9 in D Minor, Op. 125 "Choral": IV. Finale. Presto - Live
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m001p7rt" target="_blank">
+     Series 6, ep. 9, track 2
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Für Elise, Bagatelle in A Minor, WoO 59
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m001smvw" target="_blank">
+     Series 7, ep. 7, track 2
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    March – from A Clockwork Orange
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m0022l1k" target="_blank">
+     Series 10, ep. 4, track 1
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Piano Sonata No. 32 In C Minor, Op. 111: 2. Arietta (Adagio molto semplice e cantabile)
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m002dc9t" target="_blank">
+     Series 13, ep. 4, track 2
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Piano Concerto No. 4 in G Major, Op. 58: III. Rondo. Vivace
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m002jhn1" target="_blank">
+     Series 14, ep. 6, track 3
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="5">
+    Joint 4th
+   </td>
+   <td rowspan="5">
+    Claude Debussy
+   </td>
+   <td rowspan="5">
+    5
+   </td>
+   <td>
+    Préludes / Book 1, L. 117: VIII. La fille aux cheveux de lin
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m0010hq8" target="_blank">
+     Series 1, ep. 2, track 2
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Clair de lune - Arr. for Theremin and Voice by Carolina Eyck
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m001k84y" target="_blank">
+     Series 5, ep. 7, track 4
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Pour le piano, CD 95: II. Sarabande
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m0028v4s" target="_blank">
+     Series 12, ep. 4, track 2
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Trois chansons de Bilitis, L. 90: No. 1, La flûte de Pan
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m002mn12" target="_blank">
+     Series 15, ep. 3, track 2
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Préludes / Book 1, L.117: 10. La cathédrale engloutie - Live
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m002n0s4" target="_blank">
+     Series 15, ep. 4, track 3
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="5">
+    Joint 4th
    </td>
    <td rowspan="5">
     Igor Stravinsky
@@ -2595,66 +3090,125 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="5">
-    Joint 1st
+    Joint 4th
    </td>
    <td rowspan="5">
-    Ludwig van Beethoven
+    Ella Fitzgerald
    </td>
    <td rowspan="5">
     5
    </td>
    <td>
-    Symphony No. 3 in E-Flat Major, Op. 55 “Eroica”: I. Allegro con brio
+    It Don't Mean A Thing (If It Ain't Got That Swing)
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0017tjx" target="_blank">
-     Series 3, ep. 1, track 5
+    <a href="https://www.bbc.co.uk/programmes/m001dxqc" target="_blank">
+     Series 4, ep. 6, track 1
     </a>
    </td>
   </tr>
   <tr>
    <td>
-    Symphony No. 9 in D Minor, Op. 125 "Choral": IV. Finale. Presto - Live
+    How High The Moon - 1st Take
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001p7rt" target="_blank">
-     Series 6, ep. 9, track 2
+    <a href="https://www.bbc.co.uk/programmes/m001xfxf" target="_blank">
+     Series 8, ep. 7, track 4
     </a>
    </td>
   </tr>
   <tr>
    <td>
-    Für Elise, Bagatelle in A Minor, WoO 59
+    My Bonnie Lies Over The Ocean
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001smvw" target="_blank">
-     Series 7, ep. 7, track 2
+    <a href="https://www.bbc.co.uk/programmes/m00224t0" target="_blank">
+     Series 10, ep. 2, track 5
     </a>
    </td>
   </tr>
   <tr>
    <td>
-    March – from A Clockwork Orange
+    Summertime
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0022l1k" target="_blank">
-     Series 10, ep. 4, track 1
+    <a href="https://www.bbc.co.uk/programmes/m002309s" target="_blank">
+     Series 10, ep. 6, track 4
     </a>
    </td>
   </tr>
   <tr>
    <td>
-    Piano Sonata No. 32 In C Minor, Op. 111: 2. Arietta (Adagio molto semplice e cantabile)
+    Sleigh Ride
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m002dc9t" target="_blank">
-     Series 13, ep. 4, track 2
+    <a href="https://www.bbc.co.uk/programmes/m002nl2r" target="_blank">
+     Series 15, ep. 6, track 1
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="5">
+    Joint 4th
+   </td>
+   <td rowspan="5">
+    George Frideric Handel
+   </td>
+   <td rowspan="5">
+    5
+   </td>
+   <td>
+    Scherza infida
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m001f5kc" target="_blank">
+     Series 4, ep. 7, track 2
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Messiah, HWV 56, Part II: Aria "He was Despised and Rejected of Men" - 2021 Remastered Version
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m001jsww" target="_blank">
+     Series 5, ep. 5, track 2
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Zadok the Priest (Coronation Anthem No. 1, HWV 258)
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m001nh47" target="_blank">
+     Series 6, ep. 5, track 1
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Eternal Source Of Light Divine (Ode For The Birthday Of Queen Anne), HWV 74
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m0025c0p" target="_blank">
+     Series 11, ep. 2, track 4
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Messiah: Part 1, Glory to God in the highest (Chorus)
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m002m1nx" target="_blank">
+     Series 15, ep. 1, track 4
     </a>
    </td>
   </tr>
   <tr>
    <td rowspan="4">
-    Joint 4th
+    Joint 8th
    </td>
    <td rowspan="4">
     Louis Armstrong
@@ -2703,56 +3257,56 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="4">
-    Joint 4th
+    Joint 8th
    </td>
    <td rowspan="4">
-    Johann Sebastian Bach
+    Elton John
    </td>
    <td rowspan="4">
     4
    </td>
    <td>
-    Toccata and Fugue in D Minor, BWV 565
+    Don't Go Breaking My Heart
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0015bc3" target="_blank">
-     Series 2, ep. 7, track 1
+    <a href="https://www.bbc.co.uk/programmes/m0018p1s" target="_blank">
+     Series 3, ep. 5, track 3
     </a>
    </td>
   </tr>
   <tr>
    <td>
-    Orchestral Suite No. 3 in D, BWV 1068: 2. Air
+    Bennie And The Jets - Remastered 2014
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001k17h" target="_blank">
-     Series 5, ep. 6, track 4
+    <a href="https://www.bbc.co.uk/programmes/m0022skv" target="_blank">
+     Series 10, ep. 5, track 1
     </a>
    </td>
   </tr>
   <tr>
    <td>
-    The Well-Tempered Clavier, Book 1, BWV 846-869: Prelude and Fugue in C Major, BWV 846
+    Honky Cat
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001wrm8" target="_blank">
-     Series 8, ep. 4, track 1
+    <a href="https://www.bbc.co.uk/programmes/m002czpv" target="_blank">
+     Series 13, ep. 3, track 3
     </a>
    </td>
   </tr>
   <tr>
    <td>
-    Concerto for Two Violins in D Minor, BWV 1043: I. Vivace
+    Step Into Christmas
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m002309s" target="_blank">
-     Series 10, ep. 6, track 1
+    <a href="https://www.bbc.co.uk/programmes/m002nl2r" target="_blank">
+     Series 15, ep. 6, track 4
     </a>
    </td>
   </tr>
   <tr>
    <td rowspan="4">
-    Joint 4th
+    Joint 8th
    </td>
    <td rowspan="4">
     David Bowie
@@ -2801,105 +3355,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="4">
-    Joint 4th
-   </td>
-   <td rowspan="4">
-    Ella Fitzgerald
-   </td>
-   <td rowspan="4">
-    4
-   </td>
-   <td>
-    It Don't Mean A Thing (If It Ain't Got That Swing)
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001dxqc" target="_blank">
-     Series 4, ep. 6, track 1
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    How High The Moon - 1st Take
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001xfxf" target="_blank">
-     Series 8, ep. 7, track 4
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    My Bonnie Lies Over The Ocean
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m00224t0" target="_blank">
-     Series 10, ep. 2, track 5
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Summertime
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m002309s" target="_blank">
-     Series 10, ep. 6, track 4
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="4">
-    Joint 4th
-   </td>
-   <td rowspan="4">
-    George Frideric Handel
-   </td>
-   <td rowspan="4">
-    4
-   </td>
-   <td>
-    Scherza infida
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001f5kc" target="_blank">
-     Series 4, ep. 7, track 2
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Messiah, HWV 56, Part II: Aria "He was Despised and Rejected of Men" - 2021 Remastered Version
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001jsww" target="_blank">
-     Series 5, ep. 5, track 2
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Zadok the Priest (Coronation Anthem No. 1, HWV 258)
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001nh47" target="_blank">
-     Series 6, ep. 5, track 1
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Eternal Source Of Light Divine (Ode For The Birthday Of Queen Anne), HWV 74
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0025c0p" target="_blank">
-     Series 11, ep. 2, track 4
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="4">
-    Joint 4th
+    Joint 8th
    </td>
    <td rowspan="4">
     John Williams
@@ -2948,46 +3404,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="3">
-    Joint 10th
-   </td>
-   <td rowspan="3">
-    Claude Debussy
-   </td>
-   <td rowspan="3">
-    3
-   </td>
-   <td>
-    Préludes / Book 1, L. 117: VIII. La fille aux cheveux de lin
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0010hq8" target="_blank">
-     Series 1, ep. 2, track 2
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Clair de lune - Arr. for Theremin and Voice by Carolina Eyck
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001k84y" target="_blank">
-     Series 5, ep. 7, track 4
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Pour le piano, CD 95: II. Sarabande
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0028v4s" target="_blank">
-     Series 12, ep. 4, track 2
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="3">
-    Joint 10th
+    Joint 12th
    </td>
    <td rowspan="3">
     Stevie Wonder
@@ -3026,7 +3443,46 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="3">
-    Joint 10th
+    Joint 12th
+   </td>
+   <td rowspan="3">
+    Charmian Carr
+   </td>
+   <td rowspan="3">
+    3
+   </td>
+   <td>
+    Edelweiss
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m0011cd7" target="_blank">
+     Series 1, ep. 6, track 3
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Do-Re-Mi
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m001dxqc" target="_blank">
+     Series 4, ep. 6, track 5
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    The Lonely Goatherd
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m002n0s4" target="_blank">
+     Series 15, ep. 4, track 5
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="3">
+    Joint 12th
    </td>
    <td rowspan="3">
     John Coltrane
@@ -3065,7 +3521,46 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="3">
-    Joint 10th
+    Joint 12th
+   </td>
+   <td rowspan="3">
+    Duke Ellington
+   </td>
+   <td rowspan="3">
+    3
+   </td>
+   <td>
+    Blue Pepper (Far East of the Blues)
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m00154qh" target="_blank">
+     Series 2, ep. 6, track 5
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Liberian Suite / I Like the Sunrise
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m001fdb7" target="_blank">
+     Series 4, ep. 8, track 2
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Mood Indigo
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m002htdw" target="_blank">
+     Series 14, ep. 4, track 2
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="3">
+    Joint 12th
    </td>
    <td rowspan="3">
     Lady Gaga
@@ -3104,46 +3599,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="3">
-    Joint 10th
-   </td>
-   <td rowspan="3">
-    Elton John
-   </td>
-   <td rowspan="3">
-    3
-   </td>
-   <td>
-    Don't Go Breaking My Heart
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0018p1s" target="_blank">
-     Series 3, ep. 5, track 3
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Bennie And The Jets - Remastered 2014
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0022skv" target="_blank">
-     Series 10, ep. 5, track 1
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Honky Cat
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m002czpv" target="_blank">
-     Series 13, ep. 3, track 3
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="3">
-    Joint 10th
+    Joint 12th
    </td>
    <td rowspan="3">
     Kate Bush
@@ -3182,7 +3638,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="3">
-    Joint 10th
+    Joint 12th
    </td>
    <td rowspan="3">
     Leonard Bernstein
@@ -3221,7 +3677,85 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="3">
-    Joint 10th
+    Joint 12th
+   </td>
+   <td rowspan="3">
+    Julie Andrews
+   </td>
+   <td rowspan="3">
+    3
+   </td>
+   <td>
+    Songs of Fun and Nonsense
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m001dxqc" target="_blank">
+     Series 4, ep. 6, track 4
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Do-Re-Mi
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m001dxqc" target="_blank">
+     Series 4, ep. 6, track 5
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    The Lonely Goatherd
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m002n0s4" target="_blank">
+     Series 15, ep. 4, track 5
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="3">
+    Joint 12th
+   </td>
+   <td rowspan="3">
+    Nat King Cole
+   </td>
+   <td rowspan="3">
+    3
+   </td>
+   <td>
+    Deck The Halls
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m001fn6s" target="_blank">
+     Series 4, ep. 9, track 5
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    The Christmas Song (Merry Christmas To You)
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m002622x" target="_blank">
+     Series 11, ep. 5, track 5
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Unforgettable
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m002n0s4" target="_blank">
+     Series 15, ep. 4, track 1
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="3">
+    Joint 12th
    </td>
    <td rowspan="3">
     Gustav Mahler
@@ -3260,7 +3794,7 @@ Although a subjective topic, conductors and orchestras are excluded from this li
   </tr>
   <tr>
    <td rowspan="3">
-    Joint 10th
+    Joint 12th
    </td>
    <td rowspan="3">
     Beyoncé
@@ -3298,205 +3832,119 @@ Although a subjective topic, conductors and orchestras are excluded from this li
    </td>
   </tr>
   <tr>
-   <td rowspan="2">
-    Joint 19th
+   <td rowspan="3">
+    Joint 12th
    </td>
-   <td rowspan="2">
-    Antônio Carlos Jobim
+   <td rowspan="3">
+    Maurice Ravel
    </td>
-   <td rowspan="2">
-    2
+   <td rowspan="3">
+    3
    </td>
    <td>
-    The Girl From Ipanema
+    Boléro, M. 81
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0010hq8" target="_blank">
-     Series 1, ep. 2, track 1
+    <a href="https://www.bbc.co.uk/programmes/m001p22d" target="_blank">
+     Series 6, ep. 8, track 4
     </a>
    </td>
   </tr>
   <tr>
    <td>
-    Meditation (Meditação)
+    Violin Sonata No. 2 in G Major, M. 77: III. Perpetuum mobile. Allegro
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001w1gw" target="_blank">
-     Series 8, ep. 1, track 4
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="2">
-    Joint 19th
-   </td>
-   <td rowspan="2">
-    Juliette Gréco
-   </td>
-   <td rowspan="2">
-    2
-   </td>
-   <td>
-    Sous les ponts de Paris
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0010hq8" target="_blank">
-     Series 1, ep. 2, track 3
+    <a href="https://www.bbc.co.uk/programmes/m001s63y" target="_blank">
+     Series 7, ep. 5, track 4
     </a>
    </td>
   </tr>
   <tr>
    <td>
-    Un petit poisson un petit oiseau
+    Daphnis et Chloé, M. 57, Pt. 3: X. Lever du jour "Daybreak"
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001df0h" target="_blank">
-     Series 4, ep. 4, track 3
+    <a href="https://www.bbc.co.uk/programmes/m002n7ps" target="_blank">
+     Series 15, ep. 5, track 2
     </a>
    </td>
   </tr>
   <tr>
-   <td rowspan="2">
-    Joint 19th
+   <td rowspan="3">
+    Joint 12th
    </td>
-   <td rowspan="2">
-    Björk
+   <td rowspan="3">
+    Edvard Grieg
    </td>
-   <td rowspan="2">
-    2
-   </td>
-   <td>
-    It's Oh So Quiet
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0010hq8" target="_blank">
-     Series 1, ep. 2, track 4
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Venus as a Boy
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m00208pz" target="_blank">
-     Series 9, ep. 5, track 5
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="2">
-    Joint 19th
-   </td>
-   <td rowspan="2">
-    The Hilliard Ensemble
-   </td>
-   <td rowspan="2">
-    2
+   <td rowspan="3">
+    3
    </td>
    <td>
-    Parce Mihi Domine
+    Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0010ntz" target="_blank">
-     Series 1, ep. 3, track 3
+    <a href="https://www.bbc.co.uk/programmes/m001x5c6" target="_blank">
+     Series 8, ep. 6, track 2
     </a>
    </td>
   </tr>
   <tr>
    <td>
-    Ma fin est mon commencement, Rondeau 14
+    Piano Concerto in A Minor, Op. 16: III. Allegro moderato molto e marcato
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001wy3f" target="_blank">
-     Series 8, ep. 5, track 3
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="2">
-    Joint 19th
-   </td>
-   <td rowspan="2">
-    Nina Simone
-   </td>
-   <td rowspan="2">
-    2
-   </td>
-   <td>
-    Sinnerman
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0010ntz" target="_blank">
-     Series 1, ep. 3, track 4
+    <a href="https://www.bbc.co.uk/programmes/m002f01w" target="_blank">
+     Series 13, ep. 6, track 4
     </a>
    </td>
   </tr>
   <tr>
    <td>
-    Don't Let Me Be Misunderstood
+    Peer Gynt, Op. 23: Act II, 7, In the Hall of the Mountain King
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0021xvw" target="_blank">
-     Series 10, ep. 1, track 5
+    <a href="https://www.bbc.co.uk/programmes/m002hmrg" target="_blank">
+     Series 14, ep. 3, track 4
     </a>
    </td>
   </tr>
   <tr>
-   <td rowspan="2">
-    Joint 19th
+   <td rowspan="3">
+    Joint 12th
    </td>
-   <td rowspan="2">
-    Simon Preston
+   <td rowspan="3">
+    Felix Mendelssohn
    </td>
-   <td rowspan="2">
-    2
-   </td>
-   <td>
-    Variations on a theme by Mozart for four harpsichords
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0010xvk" target="_blank">
-     Series 1, ep. 4, track 4
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Zadok the Priest (Coronation Anthem No. 1, HWV 258)
-   </td>
-   <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001nh47" target="_blank">
-     Series 6, ep. 5, track 1
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="2">
-    Joint 19th
-   </td>
-   <td rowspan="2">
-    Charmian Carr
-   </td>
-   <td rowspan="2">
-    2
+   <td rowspan="3">
+    3
    </td>
    <td>
-    Edelweiss
+    Mendelssohn: A Midsummer Night's Dream, Op. 61, MWV M13: No. 9, Wedding March
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m0011cd7" target="_blank">
-     Series 1, ep. 6, track 3
+    <a href="https://www.bbc.co.uk/programmes/m001zmbr" target="_blank">
+     Series 9, ep. 2, track 2
     </a>
    </td>
   </tr>
   <tr>
    <td>
-    Do-Re-Mi
+    Paulus, Op. 36, MWV A14 / Part 1: No. 15 Chor: "Mache dich auf! Werde Licht!"
    </td>
    <td width="192">
-    <a href="https://www.bbc.co.uk/programmes/m001dxqc" target="_blank">
-     Series 4, ep. 6, track 5
+    <a href="https://www.bbc.co.uk/programmes/m0028l3c" target="_blank">
+     Series 12, ep. 3, track 3
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Violin Concerto in E Minor, Op. 64: II. Andante
+   </td>
+   <td width="192">
+    <a href="https://www.bbc.co.uk/programmes/m002gl7b" target="_blank">
+     Series 14, ep. 2, track 4
     </a>
    </td>
   </tr>
@@ -3506,6 +3954,10 @@ Although a subjective topic, conductors and orchestras are excluded from this li
 
 ## Series 1
 
+### Notes
+
+#### Ep. 6, Track 2
+Seemingly no connection given for this track.
 <table>
  <thead>
   <tr>
@@ -8924,20 +9376,6 @@ The second guest presenter was ill and did not appear in this episode. They stil
    </td>
    <td>
     George Frideric Handel
-    <br/>
-    Trevor Pinnock
-    <br/>
-    The English Concert
-    <details>
-     <summary>
-      <em>
-       +2 more
-      </em>
-     </summary>
-     Simon Preston
-     <br/>
-     The Choir Of Westminster Abbey
-    </details>
    </td>
    <td>
     <a href="https://open.spotify.com/track/30bQxViotttoZ7x2iUP2L9" target="_blank">
@@ -9489,6 +9927,10 @@ The second guest presenter was ill and did not appear in this episode. They stil
 
 ## Series 7
 
+### Notes
+
+#### Ep. 9, Track 4
+Stravinsky's "Firebird" was also selected as track #1 in series 2, episode 5 ("Infernal Dance" movement).
 <table>
  <thead>
   <tr>
@@ -10513,7 +10955,7 @@ Linton Stephens sat in for Cerys (who was recovering from surgery on a broken ar
 #### Ep. 4
 Jess Gillam sat in for Cerys.
 #### Ep. 8
-Although indicating she would return in six months (November 2024), this is Cerys' last appearance on the show as of July 2025.
+Although indicating she would return in six months (i.e. November 2024), this is Cerys' last appearance on the show as of January 2026.
 <table>
  <thead>
   <tr>
@@ -13205,18 +13647,6 @@ Does not appear to be on any streaming services.
    </td>
    <td>
     Danny Elfman
-    <br/>
-    The City of Prague Philharmonic Orchestra
-    <br/>
-    The Williams Family Singers
-    <details>
-     <summary>
-      <em>
-       +1 more
-      </em>
-     </summary>
-     James Fitzpatrick
-    </details>
    </td>
    <td>
     <a href="https://open.spotify.com/track/1ipM6x72sFUJvNkmZxedl2" target="_blank">
@@ -15289,3 +15719,1336 @@ Grieg's piano concerto was also selected as track #2 in series 8, episode 6 (1st
   </tr>
  </tbody>
 </table>
+
+## Series 14
+
+<table>
+ <thead>
+  <tr>
+   <th align="left">
+    Ep.
+   </th>
+   <th align="left">
+    Track
+   </th>
+   <th align="left">
+    Artist(s)
+   </th>
+   <th align="left">
+    Name
+   </th>
+   <th align="left" width="192">
+    Connection to Previous Track
+   </th>
+   <th align="left">
+    Chosen By
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td align="center" rowspan="5">
+    <a href="https://www.bbc.co.uk/programmes/m002gl77" target="_blank">
+     1
+    </a>
+   </td>
+   <td align="center">
+    1
+   </td>
+   <td>
+    Rick Astley
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8" target="_blank">
+     Never Gonna Give You Up
+    </a>
+   </td>
+   <td width="128">
+    -
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    2
+   </td>
+   <td>
+    Georges Bizet
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/1RyWtn2tORzE6fN6vEwz1v" target="_blank">
+     Au fond du temple saint
+    </a>
+   </td>
+   <td width="128">
+    Songs about fidelity and swearing devotion; baritone vocals.
+   </td>
+   <td width="128">
+    Roderick Williams
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    3
+   </td>
+   <td>
+    M.I.A.
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a" target="_blank">
+     Paper Planes
+    </a>
+   </td>
+   <td width="128">
+    Sri Lankan connection: the opera is set in Ceylon (which became Sri Lanka), and MIA is Sri Lankan Tamil.
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    4
+   </td>
+   <td>
+    Fiona Apple
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA" target="_blank">
+     Paper Bag
+    </a>
+   </td>
+   <td width="128">
+    "Paper" in the title; themes of feminine rage and lack of apology.
+   </td>
+   <td width="128">
+    Victoria Canal
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    5
+   </td>
+   <td>
+    The Cure
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/6q2T5xXao6mTS6LLE88L84" target="_blank">
+     The Lovecats
+    </a>
+   </td>
+   <td width="128">
+    Brush drums.
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center" rowspan="5">
+    <a href="https://www.bbc.co.uk/programmes/m002gl7b" target="_blank">
+     2
+    </a>
+   </td>
+   <td align="center">
+    1
+   </td>
+   <td>
+    Bruce Springsteen
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/4MK3A7GAdhIxJjnavcenWj" target="_blank">
+     Born In the U.S.A. - Live at Madison Square Garden, New York, NY - June/July 2000
+    </a>
+   </td>
+   <td width="128">
+    Epic live shows; The Cure are known for multi-hour performances, and Robert Smith attempted to break Springsteen's record of 4 hours and 6 minutes.
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    2
+   </td>
+   <td>
+    Dmitri Shostakovich
+    <br/>
+    Royal Liverpool Philharmonic Orchestra
+    <br/>
+    Vasily Petrenko
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/0lCACd2wQfEbvitXId5TaQ" target="_blank">
+     Symphony No. 10 in E Minor, Op. 93: II. Allegro
+    </a>
+   </td>
+   <td width="128">
+    E minor key signature.
+   </td>
+   <td width="128">
+    Alison Balsom
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    3
+   </td>
+   <td>
+    Andrew Lloyd Webber
+    <br/>
+    Murray Head
+    <br/>
+    Tim Rice
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/1YI1IeKtEzGv5mQS4Cb6hb" target="_blank">
+     Superstar
+    </a>
+   </td>
+   <td width="128">
+    Shostakovich saw Jesus Christ Superstar twice on consecutive nights during his 1975 London visit; he told Julian Lloyd Webber he might have written similarly "but for Stalin."
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    4
+   </td>
+   <td>
+    Felix Mendelssohn
+    <br/>
+    Augustin Hadelich
+    <br/>
+    Miguel Harth-Bedoya
+    <details>
+     <summary>
+      <em>
+       +1 more
+      </em>
+     </summary>
+     The Norwegian Radio Orchestra
+    </details>
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/2NBmw0YG7EYAfQDYkx5BCj" target="_blank">
+     Violin Concerto in E Minor, Op. 64: II. Andante
+    </a>
+   </td>
+   <td width="128">
+    Scottish inspiration; Mendelssohn's travels in Scotland and Scottish folk tradition.
+   </td>
+   <td width="128">
+    Linton Stephens
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    5
+   </td>
+   <td>
+    Julie Fowlis
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/6kFyrzyqjPCWrtgYat1evE" target="_blank">
+     Hùg Air A' Bhonaid Mhòir
+    </a>
+   </td>
+   <td width="128">
+    Steel-stringed instruments; bouzouki connects back to Springsteen's 12-string guitar.
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center" rowspan="5">
+    <a href="https://www.bbc.co.uk/programmes/m002hmrg" target="_blank">
+     3
+    </a>
+   </td>
+   <td align="center">
+    1
+   </td>
+   <td>
+    Plan B
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/7EzKvpqjHuKqmk3jtJWVUt" target="_blank">
+     ill Manors
+    </a>
+   </td>
+   <td width="128">
+    Landscape inspiration; shift from rural Outer Hebrides to urban London.
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    2
+   </td>
+   <td>
+    Modest Mussorgsky
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/466v7D9vm6mf8CprmAmJai" target="_blank">
+     Boris Godunov: Opera in Four Acts With a Prologue: Prologue, Scene 2, Introduction
+    </a>
+   </td>
+   <td width="128">
+    "Boris"; Plan B references Boris Johnson, leading to Boris Godunov opera.
+   </td>
+   <td width="128">
+    Keelan Carew
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    3
+   </td>
+   <td>
+    Olly Alexander (Years &amp; Years)
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/5Tx5dzR3QmPPDV1YTxr9cY" target="_blank">
+     King
+    </a>
+   </td>
+   <td width="128">
+    Coronation and kingship; featured on King Charles III's official Coronation playlist (2023).
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    4
+   </td>
+   <td>
+    Edvard Grieg
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/0YZuMvwT9GhLufHtRZv7Tf" target="_blank">
+     Peer Gynt, Op. 23: Act II, 7, In the Hall of the Mountain King
+    </a>
+   </td>
+   <td width="128">
+    Melodic similarity; the hook/riff resembles "In the Hall of the Mountain King" when slowed down.
+   </td>
+   <td width="128">
+    Jess Gillam
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    5
+   </td>
+   <td>
+    Emeli Sandé
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/5e3WXo50iEZ0z5S3dYR5hY" target="_blank">
+     Heaven
+    </a>
+   </td>
+   <td width="128">
+    Composed/produced in a shed; Grieg wrote in his shed, Naughty Boy produced in his parents' garden shed.
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center" rowspan="5">
+    <a href="https://www.bbc.co.uk/programmes/m002htdw" target="_blank">
+     4
+    </a>
+   </td>
+   <td align="center">
+    1
+   </td>
+   <td>
+    Adele
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/0Z5ok0QLLttAKsujOZYOXf" target="_blank">
+     Chasing Pavements
+    </a>
+   </td>
+   <td width="128">
+    Stage names; the artist's real name is Adele Laurie Blue Adkins, and the track continues a theme of artists who changed their names.
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    2
+   </td>
+   <td>
+    Duke Ellington
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/06ZRWjFN3GQeMjCR8KCJ3a" target="_blank">
+     Mood Indigo
+    </a>
+   </td>
+   <td width="128">
+    The word "Blue" in Adele's full name links to jazz "blue notes" and the opening lyric of "Mood Indigo" ("You ain't been blue, no, no, no")
+   </td>
+   <td width="128">
+    Callum Au
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    3
+   </td>
+   <td>
+    Wolfgang Amadeus Mozart
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/0CQP2jO5jwFJOzG15AgcXR" target="_blank">
+     Requiem, K. 626 (Ed. Beyer/Levin): IIIb. Tuba mirum - Live
+    </a>
+   </td>
+   <td width="128">
+    Prominent trombone solos.
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    4
+   </td>
+   <td>
+    Roberta Flack
+    <br/>
+    Donny Hathaway
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/065o5Vhiq7Dx6JXF0e33S8" target="_blank">
+     Back Together Again (feat. Donny Hathaway)
+    </a>
+   </td>
+   <td width="128">
+    Posthumous completion; Mozart's "Requiem" was finished after his death; "Back Together Again" was completed by Roberta Flack after Donny Hathaway's death.
+   </td>
+   <td width="128">
+    Natalie Duncan
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    5
+   </td>
+   <td>
+    Fugees
+    <br/>
+    Ms. Lauryn Hill
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl" target="_blank">
+     Killing Me Softly With His Song
+    </a>
+   </td>
+   <td width="128">
+    Cover of Roberta Flack's "Killing Me Softly", reimagined as a hip-hop track.
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center" rowspan="5">
+    <a href="https://www.bbc.co.uk/programmes/m002j641" target="_blank">
+     5
+    </a>
+   </td>
+   <td align="center">
+    1
+   </td>
+   <td>
+    The Kingsmen
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ" target="_blank">
+     Louie Louie
+    </a>
+   </td>
+   <td width="128">
+    Written on whatever surface was available: "Killing Me Softly" on a napkin, "Louie Louie" on a scrap of toilet paper.
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    2
+   </td>
+   <td>
+    Gloria Gaynor
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig" target="_blank">
+     I Will Survive
+    </a>
+   </td>
+   <td width="128">
+    Both originally appeared as B-sides ("Louie Louie" as B-side to "Haunted Castle", "I Will Survive" as B-side to "Substitute").
+   </td>
+   <td width="128">
+    Roddy Marsden
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    3
+   </td>
+   <td>
+    Johann Sebastian Bach
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/5Pl2CXDkaP6WEnJ0bpKGOm" target="_blank">
+     Organ Sonata No. 4, BWV 528: II. Andante [Adagio] (Transcr. by August Stradal)
+    </a>
+   </td>
+   <td width="128">
+    Based on the circle of fifths chord progression.
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    4
+   </td>
+   <td>
+    Ivor Novello
+    <br/>
+    Mary Ellis
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/0r4iG0eYUoeRIs9vqbakGL" target="_blank">
+     My Dearest Dear
+    </a>
+   </td>
+   <td width="128">
+    Both composers spent time in jail (Bach for resigning from his position as Konzertmeister, Novello for misuse of petrol coupons).
+   </td>
+   <td width="128">
+    Catherine Finch
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    5
+   </td>
+   <td>
+    BERWYN
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/45QAHW16P5rMhuMnITapGu" target="_blank">
+     WHO AM I
+    </a>
+   </td>
+   <td width="128">
+    Won the Ivor Novello Award for Best Album, named after Ivor Novello.
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center" rowspan="5">
+    <a href="https://www.bbc.co.uk/programmes/m002jhn1" target="_blank">
+     6
+    </a>
+   </td>
+   <td align="center">
+    1
+   </td>
+   <td>
+    Calypso Rose
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/61iRFcNPdE7dg2RmdhrdZe" target="_blank">
+     Calypso Queen
+    </a>
+   </td>
+   <td width="128">
+    Builds from Berwyn's Trinidadian origins to another Trinidadian artist, Calypso Rose, exploring themes of identity and resilience from the Caribbean diaspora.
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    2
+   </td>
+   <td>
+    Unit 4 + 2
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/5z6kXfZFFPYgJAK7mwq5wh" target="_blank">
+     Concrete and Clay
+    </a>
+   </td>
+   <td width="128">
+    Uses the same bayou rhythm (clave rhythm) as Calypso Rose's music, which was popularized in 1970s Western pop.
+   </td>
+   <td width="128">
+    Anne Dudley
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    3
+   </td>
+   <td>
+    Ludwig van Beethoven
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/5cCFapa5Om2RDjSb3VDyYJ" target="_blank">
+     Piano Concerto No. 4 in G Major, Op. 58: III. Rondo. Vivace
+    </a>
+   </td>
+   <td width="128">
+    The music video for "Concrete and Clay" was filmed at the construction site of the Barbican Centre; Beethoven's Piano Concerto No. 4 was performed at the Barbican's opening concert in 1982.
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    4
+   </td>
+   <td>
+    The Dave Brubeck Quartet
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/36MLLjFug6TJYNODUVR7av" target="_blank">
+     Blue Rondo à la Turk
+    </a>
+   </td>
+   <td width="128">
+    Rondo form (musical form with a recurring main theme), with Brubeck's piece being a jazz interpretation of the classical rondo structure.
+   </td>
+   <td width="128">
+    Joe Stilgoe
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    5
+   </td>
+   <td>
+    PSY
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/0iWlsODzRa4Vrm4wBTaW7h" target="_blank">
+     Gangnam Style (강남스타일)
+    </a>
+   </td>
+   <td width="128">
+    Dave Brubeck was a U.S. cultural ambassador in the 1950s; Psy became a 21st-century cultural ambassador for South Korea, with both using music as soft power.
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+ </tbody>
+</table>
+
+## Series 15
+
+### Notes
+
+#### Ep. 3
+Unusually, the same musical group (the Kronos Quartet) appears in two consecutive tracks.
+#### Ep. 4, Track 3
+Debussy picked for two consecutive episodes.
+<table>
+ <thead>
+  <tr>
+   <th align="left">
+    Ep.
+   </th>
+   <th align="left">
+    Track
+   </th>
+   <th align="left">
+    Artist(s)
+   </th>
+   <th align="left">
+    Name
+   </th>
+   <th align="left" width="192">
+    Connection to Previous Track
+   </th>
+   <th align="left">
+    Chosen By
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td align="center" rowspan="5">
+    <a href="https://www.bbc.co.uk/programmes/m002m1nx" target="_blank">
+     1
+    </a>
+   </td>
+   <td align="center">
+    1
+   </td>
+   <td>
+    Nikolai Rimsky-Korsakov
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/0nF5aQoLs2YtbWwClXvumL" target="_blank">
+     Flight of the Bumblebee
+    </a>
+   </td>
+   <td width="128">
+    -
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    2
+   </td>
+   <td>
+    Focus
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/2uzyiRdvfNI5WxUiItv1y9" target="_blank">
+     Hocus Pocus
+    </a>
+   </td>
+   <td width="128">
+    Speed, and virtuosic/fast-paced playing.
+   </td>
+   <td width="128">
+    Neil Brand
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    3
+   </td>
+   <td>
+    Massive Attack
+    <br/>
+    Elizabeth Fraser
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ" target="_blank">
+     Teardrop
+    </a>
+   </td>
+   <td width="128">
+    Bands using self-sufficient, off-grid power sources on tour.
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    4
+   </td>
+   <td>
+    George Frideric Handel
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/7N1gKlzVeOVyvvlRuLBcHM" target="_blank">
+     Messiah: Part 1, Glory to God in the highest (Chorus)
+    </a>
+   </td>
+   <td width="128">
+    Themes of birth and celebration, inspired by the "Teardrop" video featuring a fetus.
+   </td>
+   <td width="128">
+    Imogen Whitehead
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    5
+   </td>
+   <td>
+    Melanie
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/7dEOUeNjHwsOrzZX0kApzJ" target="_blank">
+     Animal Crackers
+    </a>
+   </td>
+   <td width="128">
+    Audience performance traditions (standing for Handel's "Hallelujah" chorus; lighting candles/lighters, which started at Melanie's Woodstock performance).
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center" rowspan="5">
+    <a href="https://www.bbc.co.uk/programmes/m002mc5n" target="_blank">
+     2
+    </a>
+   </td>
+   <td align="center">
+    1
+   </td>
+   <td>
+    Gorillaz
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/37mKgJHxfdyt3B6JODoYuj" target="_blank">
+     Feel Good Inc.
+    </a>
+   </td>
+   <td width="128">
+    Laughter used as an instrumental or lyrical element.
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    2
+   </td>
+   <td>
+    Danny Elfman
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/50csT5Qb2qOF7lHdDQ1Sbx" target="_blank">
+     The Batman Theme
+    </a>
+   </td>
+   <td width="128">
+    Bass line from "Feel Good Inc" played down a third matches the opening riff of the Batman theme.
+   </td>
+   <td width="128">
+    Amy Harman
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    3
+   </td>
+   <td>
+    Queen
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/3rsavopPmGn20ud8fqewRX" target="_blank">
+     Another One Bites the Dust - Live At Wembley Stadium / July 1986
+    </a>
+   </td>
+   <td width="128">
+    Filming location (Wayne Manor) was Knebworth House, which also hosted the Queen concert.
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    4
+   </td>
+   <td>
+    Dizzy Gillespie
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/5mybYFTwq9bE1TTPawpUwD" target="_blank">
+     One Bass Hit, Pt. 2
+    </a>
+   </td>
+   <td width="128">
+    Bass player wrote the track.
+   </td>
+   <td width="128">
+    Peter Long
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    5
+   </td>
+   <td>
+    Leonor Dely
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/3CmLCYwP10SittIjjbHa1D" target="_blank">
+     Posee Un Corazon
+    </a>
+   </td>
+   <td width="128">
+    Dizzy Gillespie was a follower of the Baháʼí faith; this track is by a Baháʼí musician inspired by its teachings.
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center" rowspan="5">
+    <a href="https://www.bbc.co.uk/programmes/m002mn12" target="_blank">
+     3
+    </a>
+   </td>
+   <td align="center">
+    1
+   </td>
+   <td>
+    The Corrs
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/6csX1JjmeoLhGqMBXGnZF0" target="_blank">
+     Runaway
+    </a>
+   </td>
+   <td width="128">
+    Family bands; The Corrs are a multi-instrumentalist Irish family band, similar to Leonor Dely's family group.
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    2
+   </td>
+   <td>
+    Claude Debussy
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/0TYUDaSN8OdbRdK5sKHPml" target="_blank">
+     Trois chansons de Bilitis, L. 90: No. 1, La flûte de Pan
+    </a>
+   </td>
+   <td width="128">
+    Modal harmony; focuses on the Lydian mode, specifically the raised fourth degree heard at the end of "Runaway".
+   </td>
+   <td width="128">
+    Claire Wickes
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    3
+   </td>
+   <td>
+    Florence + The Machine
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/0z2BVrzRVNvmnFF37mDhev" target="_blank">
+     Cassandra
+    </a>
+   </td>
+   <td width="128">
+    Greek myths in music; inspired by the fabricated ancient Greek poetry story behind the Debussy piece, linking to the myth of Cassandra.
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    4
+   </td>
+   <td>
+    Clint Mansell
+    <br/>
+    Kronos Quartet
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/7dU4TLTzGZk9FroEGlMbFi" target="_blank">
+     Stay with Me (feat. Kronos Quartet)
+    </a>
+   </td>
+   <td width="128">
+    Music about predicting the future; connects the Cassandra myth to film scores dealing with precognition.
+   </td>
+   <td width="128">
+    Vince Pope
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    5
+   </td>
+   <td>
+    Kronos Quartet
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/5NCEPhQv038f8dEsibzLKr" target="_blank">
+     Ya Taali'een el-Jabal (Arr. Jonathan Berger)
+    </a>
+   </td>
+   <td width="128">
+    The Kronos Quartet; continues from their appearance on the Clint Mansell track, highlighting their genre-bending versatility and recent collaboration.
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center" rowspan="5">
+    <a href="https://www.bbc.co.uk/programmes/m002n0s4" target="_blank">
+     4
+    </a>
+   </td>
+   <td align="center">
+    1
+   </td>
+   <td>
+    Natalie Cole
+    <br/>
+    Nat King Cole
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/2MVQbDuhVs2muWFURtIdNb" target="_blank">
+     Unforgettable
+    </a>
+   </td>
+   <td width="128">
+    Uses the recorded voice of a deceased person (Nat King Cole) to create a new duet with his daughter, Natalie Cole, paralleling the posthumous vocal use in the previous episode's track.
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    2
+   </td>
+   <td>
+    Gary Burton
+    <br/>
+    Chick Corea
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/6linlPbVWEecMEMfNcul1e" target="_blank">
+     Senor Mouse
+    </a>
+   </td>
+   <td width="128">
+    The prominent use of the vibraphone.
+   </td>
+   <td width="128">
+    Emma Rawicz
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    3
+   </td>
+   <td>
+    Claude Debussy
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/1n6MoluqBCgTb6KSMDxajQ" target="_blank">
+     Préludes / Book 1, L.117: 10. La cathédrale engloutie - Live
+    </a>
+   </td>
+   <td width="128">
+    Explores parallel fourths and fifths (chordal harmonies) heard in "Señor Mouse", a technique popularised in classical music by Debussy.
+   </td>
+   <td width="128">
+    Keelan Carew
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    4
+   </td>
+   <td>
+    Barry Gray
+    <br/>
+    Mike Sammes Singers
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/1AUF4B0aQNcRHiaW3XzhgQ" target="_blank">
+     Stingray Main Titles
+    </a>
+   </td>
+   <td width="128">
+    Underwater theme, inspired by the submerged cathedral imagery in Debussy's piece. Links to the 1960s puppet TV series "Stingray" set in an undersea world.
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    5
+   </td>
+   <td>
+    Julie Andrews
+    <br/>
+    Charmian Carr
+    <br/>
+    Heather Menzies
+    <details>
+     <summary>
+      <em>
+       +5 more
+      </em>
+     </summary>
+     Nicholas Hammond
+     <br/>
+     Duane Chase
+     <br/>
+     Angela Cartwright
+     <br/>
+     Debbie Turner
+     <br/>
+     Kym Karath
+    </details>
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/2KXPjCIpLgd59z7KSxVzh0" target="_blank">
+     The Lonely Goatherd
+    </a>
+   </td>
+   <td width="128">
+    Continues the puppet theme from "Stingray"; the song is performed with puppets in the film "The Sound of Music".
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center" rowspan="5">
+    <a href="https://www.bbc.co.uk/programmes/m002n7ps" target="_blank">
+     5
+    </a>
+   </td>
+   <td align="center">
+    1
+   </td>
+   <td>
+    The HU
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/7LSn5it9bQhJqyfEq1PM3l" target="_blank">
+     Wolf Totem
+    </a>
+   </td>
+   <td width="128">
+    Vocal techniques; yodeling in "The Lonely Goatherd" and Mongolian throat singing in "Wolf Totem".
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    2
+   </td>
+   <td>
+    Maurice Ravel
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/7xvKHjpJrwNQoeIEVEdhC1" target="_blank">
+     Daphnis et Chloé, M. 57, Pt. 3: X. Lever du jour "Daybreak"
+    </a>
+   </td>
+   <td width="128">
+    Nature-inspired soundscapes and layered, evolving orchestration evoking a sunrise.
+   </td>
+   <td width="128">
+    Ben Gernon
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    3
+   </td>
+   <td>
+    Kyle Dixon &amp; Michael Stein
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf" target="_blank">
+     Stranger Things
+    </a>
+   </td>
+   <td width="128">
+    Repetitive, looping arpeggiated patterns in the flutes (Ravel) compared to the synthesised arpeggiator in the theme.
+   </td>
+   <td width="128">
+    Katy Richardson
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    4
+   </td>
+   <td>
+    Lily Allen
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/1GpM5w7maS7MGVkZdg6jPE" target="_blank">
+     Madeline
+    </a>
+   </td>
+   <td width="128">
+    Actor David Harbour, who stars in "Stranger Things", is married to Lily Allen and features in her album.
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    5
+   </td>
+   <td>
+    SIX
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/03GBiorLGTk7T4IScIl4jj" target="_blank">
+     Ex-Wives
+    </a>
+   </td>
+   <td width="128">
+    Musical set in London's West End, linking to Lily Allen's album title "West End Girl"; theme of public breakups.
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center" rowspan="5" title="This episode was a one-off special.">
+    <a href="https://www.bbc.co.uk/programmes/m002nl2r" target="_blank">
+     6*
+    </a>
+   </td>
+   <td align="center">
+    1
+   </td>
+   <td>
+    Ella Fitzgerald
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/1jYwLRXc7D0oeVARfTG59s" target="_blank">
+     Sleigh Ride
+    </a>
+   </td>
+   <td width="128">
+    -
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    2
+   </td>
+   <td>
+    Johann Sebastian Bach
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/5muRNOKfQ3majrckmILVGf" target="_blank">
+     Christmas Oratorio, BWV 248, Pt. 2: No. 10, Sinfonia
+    </a>
+   </td>
+   <td width="128">
+    Space theme; both Ella Fitzgerald and Bach have had music used as astronaut wake-up calls.
+   </td>
+   <td width="128">
+    Heidi Fardell
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    3
+   </td>
+   <td>
+    Mykola Dmytrovych Leontovych
+    <br/>
+    Peter J. Wilhousky
+    <br/>
+    The Sixteen
+    <details>
+     <summary>
+      <em>
+       +1 more
+      </em>
+     </summary>
+     Harry Christophers
+    </details>
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/6kjuquVylEzGSiBtaBXUKI" target="_blank">
+     Carol of the Bells
+    </a>
+   </td>
+   <td width="128">
+    Bach's reuse of secular music for the oratorio; this piece also began as a non-Christmas folk tune.
+   </td>
+   <td width="128">
+    Joe Stilgoe
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    4
+   </td>
+   <td>
+    Elton John
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/2Kbf1mWqgmvd0bc7FN14Zw" target="_blank">
+     Step Into Christmas
+    </a>
+   </td>
+   <td width="128">
+    Bells; moving from vocal imitation of bells to prominent use of sleigh bells and tubular bells.
+   </td>
+   <td width="128">
+    Anna Phoebe
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    5
+   </td>
+   <td>
+    José Feliciano
+   </td>
+   <td>
+    <a href="https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId" target="_blank">
+     Feliz Navidad
+    </a>
+   </td>
+   <td width="128">
+    Celebrating winter celebrations worldwide; shifting from a Christmas pop song to a bilingual Christmas classic from Puerto Rico.
+   </td>
+   <td width="128">
+    Jeffrey Boakye
+   </td>
+  </tr>
+ </tbody>
+</table>
+
