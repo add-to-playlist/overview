@@ -1,0 +1,10 @@
+{% macro presenter_picks(picks) %}
+    {% for pick in picks %}
+        Series {{ pick.series }}, ep. {{ pick.episode }}, track {{ pick.track.number }}
+        - <em>{{ pick.track.name }}</em>
+
+        {% if not loop.last %}
+            <br />
+        {% endif %}
+    {% endfor %}
+{% endmacro %}

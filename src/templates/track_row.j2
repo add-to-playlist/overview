@@ -1,0 +1,59 @@
+<tr>
+    {% if track.is_first %}
+        <td
+            {% if episode.one_off_special %}
+                class="table-warning"
+                title="This episode was a one-off special."
+            {% endif %}
+            rowspan="{{ episode.track_count }}"
+            align="center"
+        >
+            <a href="{{ episode.url }}" target="_blank">
+                {% if episode.one_off_special %}
+                    {{ episode.number }}*
+                {% else %}
+                    {{ episode.number }}
+                {% endif %}
+            </a>
+        </td>
+    {% endif %}
+
+    <td align="center">{{ track.number }}</td>
+
+    <td>
+        {% if track.artists is not none %}
+            {% if (track.artists | length) <= max_visible_artists %}
+                {{ track.artists | join("<br />") }}
+            {% else %}
+                {% set visible_artists = track.artists[:max_visible_artists] %}
+                {% set hidden_artists = track.artists[max_visible_artists:] %}
+
+                {{ visible_artists | join("<br />") }}
+
+                <details>
+                    <summary>
+                        <em>+{{ hidden_artists | length }} more</em>
+                    </summary>
+
+                    {{ hidden_artists | join("<br />") }}
+                </details>
+            {% endif %}
+        {% else %}
+            <em>n/a</em>
+        {% endif %}
+    </td>
+
+    <td>
+        {% if track.has_media_link %}
+            <a href="{{ track | media_link }}" target="_blank">
+                {{ track.name }}
+            </a>
+        {% else %}
+            {{ track.name }}
+        {% endif %}
+    </td>
+
+    <td>{{ track.connection or '-' }}</td>
+
+    <td width="192">{{ track.chosen_by }}</td>
+</tr>

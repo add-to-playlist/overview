@@ -1,0 +1,46 @@
+<tr>
+    {% if episode.is_first %}
+        <td
+            align="center"
+            rowspan="{{ series | length }}"
+            class="{{ series.number | table_class_name }}"
+        >
+            {{ series.number }}
+        </td>
+    {% endif %}
+
+    <td>{{ ns.ep_number_overall }}</td>
+
+    {% if episode.one_off_special %}
+        <td title="This episode was a one-off special." class="table-warning">
+            {{ episode.number }}*
+        </td>
+    {% else %}
+        <td>{{ episode.number }}</td>
+    {% endif %}
+
+    <td>{{ ns.track_total }}</td>
+    <td>{{ episode.broadcast | date_format }}</td>
+
+    {% if episode.is_first %}
+        <td rowspan="{{ series | length }}">
+            <img
+                src="/images/spotify.png"
+                height="16"
+                width="16"
+                alt="Spotify logo"
+            />
+            <a href="{{ series | get_playlist_url | spotify_playlist_url }}" target="_blank">Spotify</a>
+        </td>
+    {% endif %}
+
+    <td>
+        <img
+            src="/images/bbc-sounds.png"
+            height="16"
+            width="16"
+            alt="BBC Sounds logo"
+        />
+        <a href="{{ episode.url }}" target="_blank">BBC Sounds</a>
+    </td>
+</tr>

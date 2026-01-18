@@ -1,0 +1,41 @@
+{% from "presenter_picks.macro.j2" import presenter_picks %}
+
+<h2>Top {{ presenter_leaderboard_amt }} Presenters</h2>
+
+<p>The following table lists presenters in order of total playlist tracks picked.</p>
+
+<table class="{{ TABLE_CLASSES }}">
+    <thead>
+        <tr>
+            <th align="left">Position</th>
+            <th align="left">Presenter</th>
+            <th align="left">Total</th>
+            <th align="left">Tracks</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for item in presenter_leaderboard %}
+            <tr>
+                <td>{{ item.rank }}</td>
+                <td>{{ item.name }}</td>
+                <td>{{ item.count }}</td>
+                <td>
+                    {% set visible_picks = item.picks[:max_visible_picks] %}
+                    {% set hidden_picks = item.picks[max_visible_picks:] %}
+
+                    {{ presenter_picks(visible_picks) }}
+
+                    {% if (hidden_picks | length) > 0 %}
+                        <details>
+                            <summary>
+                                <em>+{{ hidden_picks | length }} more</em>
+                            </summary>
+
+                            {{ presenter_picks(hidden_picks) }}
+                        </details>
+                    {% endif %}
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>

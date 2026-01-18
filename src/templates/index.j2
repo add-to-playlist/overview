@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="Complete track listings for BBC Radio 4's Add to Playlist. Browse all episodes, artists, and series with links to Spotify and YouTube where available." />
+        <meta name="keywords" content="Add to Playlist, BBC Radio 4, BBC Sounds, music playlist, track list, Spotify, YouTube, radio show, series playlists" />
+        <link rel="icon" type="image/png" href="/images/icon.png" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous" />
+        <style>
+            /* Unfortunately necessary to properly handle rowspan elements */
+            .td-odd {
+                --bs-table-color-type: var(--bs-table-striped-color) !important;
+                --bs-table-bg-type: var(--bs-table-striped-bg) !important;
+            }
+            .td-even {
+                --bs-table-color-type: initial !important;
+                --bs-table-bg-type: initial !important;
+            }
+        </style>
+        <title>Add to Playlist Overview</title>
+    </head>
+    <body>
+        <main class="container py-5 d-flex flex-column gap-4 table-responsive">
+            <section>
+                <h1>Add to Playlist</h1>
+
+                <p>This is a repository containing data about <a href="https://www.bbc.co.uk/programmes/m00106lb" target="_blank">Add to Playlist</a> - a BBC Radio 4 show which selects and discusses several tracks for a "playlist" in each episode.</p>
+
+                <p>While it's possible to view each <em>individual</em> episode's playlist tracks on the BBC Sounds website, it's not possible to view them all as one big list.</p>
+
+                <p>The primary motivation of this project was to create such a list, which is displayed further down on this page.</p>
+
+                <p>As well as each track's name and artist(s), included where possible is a link to Spotify (or YouTube when the former is unavailable).</p>
+
+                <p>An asterisk (*) next to an episode number indicates a one-off special where the tracks do not connect to the previous/following episodes.</p>
+
+                <p>Also included are links to several Spotify playlists: one playlist per series, and one big playlist for the entire series as a whole.</p>
+            </section>
+
+            <section>
+                <h3>About</h3>
+
+                <p>Most of the data shown in the tables below was gathered automatically by scraping each episode's BBC Sounds page, parsing the HTML, then querying Spotify's Web API to find a recording.</p>
+
+                <p>Due to the nature of Spotify's API, there may be slight inconsistencies between the Spotify link and the version of the track played in the show, e.g. a remixed version may appear before the original version in Spotify's search results.</p>
+
+                <p>Care has been taken, however, to find the exact recordings used in the show where possible (by using music identification software such as Shazam and SoundHound).</p>
+
+                <p>The descriptions of how the tracks relate to each other were written manually up until series 4, episode 7, when AI was used to speed up the process - first, using <a href="https://github.com/openai/whisper" target="_blank">Whisper</a> to create transcripts of each episode, then uploading the transcripts to <a href="https://claude.ai/" target="_blank">Claude</a> and <a href="https://chat.deepseek.com/" target="_blank">DeepSeek</a> for analysis. Finally, the AI output was reviewed, corrected when needed, and then added to the tables.</p>
+
+                <p>Although care has been taken to make this page as accurate as possible, there will probably be a few mistakes; corrections are therefore very much welcomed!</p>
+
+                <p>Source: <a href="https://github.com/add-to-playlist/overview">https://github.com/add-to-playlist/overview</a></p>
+
+                <p class="small fst-italic"><strong>Disclaimer:</strong> this project is an independent compilation and analysis of Add to Playlist episodes. It is not affiliated with or endorsed by BBC.</p>
+            </section>
+
+            <section>
+                <h3>Contents</h3>
+
+                <ol>
+                    <li class="mb-1">
+                        <a href="#overview-all-series">Overview (All Series)</a>
+                    </li>
+                    <li class="mb-1">
+                        <a href="#top-{{ artist_leaderboard_amt }}-artists">Top {{ artist_leaderboard_amt }} Artists</a>
+                    </li>
+                    <li class="mb-1">
+                        <a href="#top-{{ presenter_leaderboard_amt }}-presenters">Top {{ presenter_leaderboard_amt }} Presenters</a>
+                    </li>
+                    {% for series in all_series %}
+                        <li class="mb-1">
+                            <a href="#series-{{ loop.index }}">Series {{ loop.index }}</a>
+                        </li>
+                    {% endfor %}
+                </ol>
+            </section>
+
+            <section id="overview-all-series">
+                <h2>Overview (All Series)</h2>
+
+                <p>A Spotify playlist containing every track chosen in the series so far can be found <a href="{{ all_series_playlist | spotify_playlist_url }}" target="_blank">here</a> (excluding, of course, the small number of tracks that aren't available on Spotify).</p>
+
+                {% include "overview_all_series.j2" %}
+            </section>
+
+            <section id="top-{{ artist_leaderboard_amt }}-artists">
+                {% include "top_artists.j2" %}
+            </section>
+
+            <section id="top-{{ presenter_leaderboard_amt }}-presenters">
+                {% include "top_presenters.j2" %}
+            </section>
+
+            {% for series in all_series %}
+                <section id="series-{{ loop.index }}">
+                    {% include "series_overview.j2" %}
+                </section>
+            {% endfor %}
+        </main>
+        <script>
+            if (window.matchMedia) {
+                const m = window.matchMedia('(prefers-color-scheme: dark)');
+                document.body.setAttribute('data-bs-theme', m.matches ? 'dark' : 'light');
+                m.addEventListener('change', e => document.body.setAttribute('data-bs-theme', e.matches ? 'dark' : 'light'));
+            }
+        </script>
+    </body>
+</html>

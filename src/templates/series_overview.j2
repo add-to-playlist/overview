@@ -1,0 +1,41 @@
+<h2 class="mb-4">Series {{ series.number }}</h2>
+
+{% set episodes_with_comments = series.episodes_with_comments %}
+
+{% if episodes_with_comments %}
+    <div class="mb-4">
+        {% for episode in episodes_with_comments %}
+            {% if episode.comments %}
+                <h4 class="h6 fw-bold">Ep. {{ episode.number }}</h4>
+                <p>{{ episode.comments }}</p>
+            {% endif %}
+
+            {% for track in episode %}
+                {% if track.comments %}
+                    <h4 class="h6 fw-bold">Ep. {{ episode.number }}, Track {{ track.number }}</h4>
+                    <p>{{ track.comments }}</p>
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+    </div>
+{% endif %}
+
+<table class="{{ TABLE_CLASSES }}">
+    <thead>
+        <tr>
+            <th align="left">Ep.</th>
+            <th align="left">Track</th>
+            <th align="left">Artist(s)</th>
+            <th align="left">Name</th>
+            <th align="left">Connection to Previous Track</th>
+            <th align="left">Chosen By</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for episode in series %}
+            {% for track in episode %}
+                {% include "track_row.j2" %}
+            {% endfor %}
+        {% endfor %}
+    </tbody>
+</table>
