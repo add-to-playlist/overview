@@ -17156,5 +17156,12 @@
 </tr>    </tbody>
 </table>                </section>
         </main>
+        <script>
+            if (window.matchMedia) {
+                const m = window.matchMedia('(prefers-color-scheme: dark)');
+                document.body.setAttribute('data-bs-theme', m.matches ? 'dark' : 'light');
+                m.addEventListener('change', e => document.body.setAttribute('data-bs-theme', e.matches ? 'dark' : 'light'));
+            }
+        </script>
     </body>
 </html>
