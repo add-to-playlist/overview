@@ -1,4 +1,5 @@
 import json
+import os
 
 from jinja2 import Environment, FileSystemLoader, StrictUndefined
 from project.filters import filters
@@ -9,10 +10,12 @@ from project.utils import (
     get_presenter_leaderboard,
 )
 
+EPISODE_DATA_PATH = os.environ.get("EPISODE_DATA_PATH", "data.json")
+OUTPUT_HTML_PATH = os.environ.get("OUTPUT_HTML_PATH", "../assets/index.html")
 
 def load_series_data():
     with open(
-        "data.json",
+        EPISODE_DATA_PATH,
         mode="r",
         encoding="utf8",
     ) as f:
@@ -57,7 +60,7 @@ def main():
         max_visible_picks=5,
     )
 
-    with open("../docs/index.html", mode="w", encoding="utf8") as f:
+    with open(OUTPUT_HTML_PATH, mode="w", encoding="utf8") as f:
         f.write(output)
 
 

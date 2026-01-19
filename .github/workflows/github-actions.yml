@@ -28,6 +28,9 @@ jobs:
           pip install -r requirements.txt
 
       - name: Render templates
+        env:
+          EPISODE_DATA_PATH: data.json
+          OUTPUT_HTML_PATH: ../docs/index.html
         run: |
           mkdir docs
           cd src
