@@ -1,23 +1,25 @@
-<table class="{{ TABLE_CLASSES }}">
-    <thead>
-        <tr>
-            <th align="left">Series</th>
-            <th align="left">Ep. Overall</th>
-            <th align="left">Ep. in Series</th>
-            <th align="left">Tracks Overall</th>
-            <th align="left">Broadcast</th>
-            <th align="left">Playlist Link</th>
-            <th align="left">Ep. Link</th>
-        </tr>
-    </thead>
-    <tbody>
-        {% set ns = namespace(ep_number_overall=0, track_total=0) %}
-        {% for series in all_series %}
-            {% for episode in series %}
-                {% set ns.ep_number_overall = ns.ep_number_overall + 1 %}
-                {% set ns.track_total = ns.track_total + episode.track_count %}
-                {% include "overview_row.j2" %}
+<div class="overflow-auto">
+    <table class="{{ TABLE_CLASSES }}">
+        <thead>
+            <tr>
+                <th align="left">Series</th>
+                <th align="left">Ep. Overall</th>
+                <th align="left">Ep. in Series</th>
+                <th align="left">Tracks Overall</th>
+                <th align="left">Broadcast</th>
+                <th align="left">Playlist Link</th>
+                <th align="left">Ep. Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% set ns = namespace(ep_number_overall=0, track_total=0) %}
+            {% for series in all_series %}
+                {% for episode in series %}
+                    {% set ns.ep_number_overall = ns.ep_number_overall + 1 %}
+                    {% set ns.track_total = ns.track_total + episode.track_count %}
+                    {% include "overview_row.j2" %}
+                {% endfor %}
             {% endfor %}
-        {% endfor %}
-    </tbody>
-</table>
+        </tbody>
+    </table>
+</div>

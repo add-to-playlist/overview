@@ -13,6 +13,7 @@ from project.utils import (
 EPISODE_DATA_PATH = os.environ.get("EPISODE_DATA_PATH", "data.json")
 OUTPUT_HTML_PATH = os.environ.get("OUTPUT_HTML_PATH", "../assets/index.html")
 
+
 def load_series_data():
     with open(
         EPISODE_DATA_PATH,
@@ -31,9 +32,7 @@ def main():
     )
 
     env.filters.update(filters)
-    env.globals["TABLE_CLASSES"] = (
-        "table table-hover table-striped table-bordered align-middle"
-    )
+    env.globals["TABLE_CLASSES"] = "striped"
 
     template = env.get_template("index.j2")
 

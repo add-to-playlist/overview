@@ -6,22 +6,38 @@
         <meta name="description" content="Complete track listings for BBC Radio 4's Add to Playlist. Browse all episodes, artists, and series with links to Spotify and YouTube where available." />
         <meta name="keywords" content="Add to Playlist, BBC Radio 4, BBC Sounds, music playlist, track list, Spotify, YouTube, radio show, series playlists" />
         <link rel="icon" type="image/png" href="images/icon.png" />
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous" />
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+        >
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.colors.min.css"
+        >
         <style>
+            :root {
+                --pico-block-spacing-vertical: 2rem;
+            }
+            .table-warning {
+                background-color: var(--pico-color-amber-150);
+            }
+            @media only screen and (prefers-color-scheme: dark) {
+                .table-warning {
+                    background-color: var(--pico-color-amber-600);
+                }
+            }
             /* Unfortunately necessary to properly handle rowspan elements */
             .td-odd {
-                --bs-table-color-type: var(--bs-table-striped-color) !important;
-                --bs-table-bg-type: var(--bs-table-striped-bg) !important;
+                background-color: var(--pico-table-row-stripped-background-color) !important;
             }
             .td-even {
-                --bs-table-color-type: initial !important;
-                --bs-table-bg-type: initial !important;
+                background-color: var(--pico-background-color) !important;
             }
         </style>
         <title>Add to Playlist Overview</title>
     </head>
     <body>
-        <main class="container py-5 d-flex flex-column gap-4 table-responsive">
+        <main class="container">
             <section>
                 <h1>Add to Playlist</h1>
 
@@ -53,24 +69,24 @@
 
                 <p>Source: <a href="https://github.com/add-to-playlist/overview">https://github.com/add-to-playlist/overview</a></p>
 
-                <p class="small fst-italic"><strong>Disclaimer:</strong> this project is an independent compilation and analysis of Add to Playlist episodes. It is not affiliated with or endorsed by BBC.</p>
+                <p><small><em><strong>Disclaimer:</strong> this project is an independent compilation and analysis of Add to Playlist episodes. It is not affiliated with or endorsed by BBC.</em></small></p>
             </section>
 
             <section>
                 <h3>Contents</h3>
 
                 <ol>
-                    <li class="mb-1">
+                    <li>
                         <a href="#overview-all-series">Overview (All Series)</a>
                     </li>
-                    <li class="mb-1">
+                    <li>
                         <a href="#top-{{ artist_leaderboard_amt }}-artists">Top {{ artist_leaderboard_amt }} Artists</a>
                     </li>
-                    <li class="mb-1">
+                    <li>
                         <a href="#top-{{ presenter_leaderboard_amt }}-presenters">Top {{ presenter_leaderboard_amt }} Presenters</a>
                     </li>
                     {% for series in all_series %}
-                        <li class="mb-1">
+                        <li>
                             <a href="#series-{{ loop.index }}">Series {{ loop.index }}</a>
                         </li>
                     {% endfor %}

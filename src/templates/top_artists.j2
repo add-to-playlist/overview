@@ -4,51 +4,53 @@
 
 <p>Although subjective, conductors and orchestras (who have been featured in many recordings on the show) are excluded from this list to provide a more "accurate" ranking - otherwise, the top artists end up being the London Symphony Orchestra, Leonard Bernstein, etc.</p>
 
-<table class="{{ TABLE_CLASSES }}">
-    <thead>
-        <tr>
-            <th align="left">Position</th>
-            <th align="left">Artist(s)</th>
-            <th align="left">Total</th>
-            <th align="left">Track</th>
-            <th align="left">Chosen</th>
-        </tr>
-    </thead>
-    <tbody>
-        {% for item in artist_leaderboard %}
-            {% set parent_index = loop.index %}
-            {% for track in item.tracks %}
-                <tr>
-                    {% if loop.first %}
-                        <td
-                            class="{{ parent_index | table_class_name }}"
-                            rowspan="{{ item.count }}"
-                        >
-                            {{ item.rank }}
+<div class="overflow-auto">
+    <table class="{{ TABLE_CLASSES }}">
+        <thead>
+            <tr>
+                <th align="left">Position</th>
+                <th align="left">Artist(s)</th>
+                <th align="left">Total</th>
+                <th align="left">Track</th>
+                <th align="left">Chosen</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in artist_leaderboard %}
+                {% set parent_index = loop.index %}
+                {% for track in item.tracks %}
+                    <tr>
+                        {% if loop.first %}
+                            <td
+                                class="{{ parent_index | table_class_name }}"
+                                rowspan="{{ item.count }}"
+                            >
+                                {{ item.rank }}
+                            </td>
+
+                            <td
+                                class="{{ parent_index | table_class_name }}"
+                                rowspan="{{ item.count }}">
+                                {{ item.names | join("<br />") }}
+                            </td>
+
+                            <td
+                                class="{{ parent_index | table_class_name }}"
+                                rowspan="{{ item.count }}">
+                                {{ item.count }}
+                            </td>
+                        {% endif %}
+
+                        <td>{{ track.name }}</td>
+
+                        <td width="256">
+                            <a href="{{ track.episode_url }}" target="_blank">
+                                Series {{ track.series }}, ep. {{ track.episode }}, track {{ track.number }}
+                            </a>
                         </td>
-
-                        <td
-                            class="{{ parent_index | table_class_name }}"
-                            rowspan="{{ item.count }}">
-                            {{ item.names | join("<br />") }}
-                        </td>
-
-                        <td
-                            class="{{ parent_index | table_class_name }}"
-                            rowspan="{{ item.count }}">
-                            {{ item.count }}
-                        </td>
-                    {% endif %}
-
-                    <td>{{ track.name }}</td>
-
-                    <td>
-                        <a href="{{ track.episode_url }}" target="_blank">
-                            Series {{ track.series }}, ep. {{ track.episode }}, track {{ track.number }}
-                        </a>
-                    </td>
-                </tr>
+                    </tr>
+                {% endfor %}
             {% endfor %}
-        {% endfor %}
-    </tbody>
-</table>
+        </tbody>
+    </table>
+</div>
