@@ -6,7 +6,7 @@ from project.utils import SERIES_PLAYLIST_IDS
 
 def date_format(value: str):
     dt = datetime.fromisoformat(value)
-    return f"{dt.day} {dt.strftime("%B %Y")}"
+    return f"{dt.day} {dt.strftime('%B %Y')}"
 
 
 def get_playlist_url(series: Series):

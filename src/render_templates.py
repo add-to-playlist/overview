@@ -2,6 +2,7 @@ import json
 import os
 
 from jinja2 import Environment, FileSystemLoader, StrictUndefined
+
 from project.filters import filters
 from project.models import SeriesCollection
 from project.utils import (

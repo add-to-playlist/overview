@@ -63,7 +63,7 @@ class Episode:
     episode: int
     broadcast: str
     one_off_special: bool = False
-    comments: str = None
+    comments: str | None = None
 
     def __post_init__(self):
         playlist_tracks = []
@@ -121,10 +121,10 @@ class Track:
     artist: str
     chosen_by: str
     spotify: dict
-    youtube: str = None
-    connection: str = None
-    timestamp: str = None
-    comments: str = None
+    youtube: str | None = None
+    connection: str | None = None
+    timestamp: str | None = None
+    comments: str | None = None
 
     def __post_init__(self):
         if self.spotify is not None:
