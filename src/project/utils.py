@@ -22,6 +22,7 @@ SERIES_PLAYLIST_IDS = (
     "4A4zUOpersExaZmgbBygs1",  # 13
     "0u91zsKlBcsnfeFkqcfSNG",  # 14
     "7EL2wFkXWFZblO8zu8Q2A8",  # 15
+    "72M7ej4xKe0imadf9eFKjO",  # 16
 )
 
 

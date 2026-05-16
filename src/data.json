@@ -13387,5 +13387,791 @@
     "other_tracks": [],
     "series": 15,
     "episode": 6
+  },
+  {
+    "broadcast": "2026-02-17T11:00:00+00:00",
+    "episode": 1,
+    "id": "m002r4yk",
+    "other_tracks": [],
+    "playlist_tracks": [
+      {
+        "artist": "John Paul Young",
+        "name": "Love is in the Air",
+        "spotify": {
+          "id": "4v2K1ZcRXUc87CLtEXI3Pf",
+          "url": "https://open.spotify.com/track/4v2K1ZcRXUc87CLtEXI3Pf",
+          "name": "Love Is in the Air",
+          "artists": [
+            {
+              "id": "2wMcQIxzH2LYHJZNxo9FcN",
+              "name": "John Paul Young"
+            }
+          ],
+          "released": "2006-07-29"
+        },
+        "chosen_by": "Jeffrey Boakye",
+        "timestamp": "00:04:02"
+      },
+      {
+        "artist": "Rick Wakeman ft Roger Daltrey",
+        "name": "Love\u2019s Dream",
+        "spotify": {
+          "id": "4f8bk4VTIj7Z6Zl10WTdaf",
+          "url": "https://open.spotify.com/track/4f8bk4VTIj7Z6Zl10WTdaf",
+          "name": "Love's Dream - From \"Lisztomania\" Soundtrack",
+          "artists": [
+            {
+              "id": "0mkcYaXUbJUs5mJointuzB",
+              "name": "Rick Wakeman"
+            },
+            {
+              "id": "5odf7hjI7hyvAw66tmxhGF",
+              "name": "Roger Daltrey"
+            }
+          ],
+          "released": "2017-09-15"
+        },
+        "chosen_by": "Rick Wakeman",
+        "connection": "Theme of love (track title translates to \"love's dream\"); Liszt as a romantic figure akin to a rock star.",
+        "timestamp": "00:11:11"
+      },
+      {
+        "artist": "Mark Mothersbaugh",
+        "name": "Thor: Ragnarok",
+        "spotify": {
+          "id": "4Jm9RwZ2C46J06ARRllUs5",
+          "url": "https://open.spotify.com/track/4Jm9RwZ2C46J06ARRllUs5",
+          "name": "Thor: Ragnarok",
+          "artists": [
+            {
+              "id": "5sEDTHJJyDEWVFx99hGSIb",
+              "name": "Mark Mothersbaugh"
+            }
+          ],
+          "released": "2017-10-20"
+        },
+        "chosen_by": "Anna Phoebe",
+        "connection": "Rick Wakeman's role as Thor in the film \"Lisztomania\" leads to the Marvel superhero Thor and its theme music.",
+        "timestamp": "00:18:41"
+      },
+      {
+        "artist": "Mozart",
+        "name": "Allegro moderato from Violin Concerto No 1 in B-flat Major",
+        "spotify": {
+          "id": "7sg6v5qTSBfmh78oV3KaYk",
+          "url": "https://open.spotify.com/track/7sg6v5qTSBfmh78oV3KaYk",
+          "name": "Mozart: Violin Concerto No. 1 in B-Flat Major, K. 207: I. Allegro moderato (Cadenza by Cohen)",
+          "artists": [
+            {
+              "id": "4NJhFmfw43RLBLjQvxDuRS",
+              "name": "Wolfgang Amadeus Mozart"
+            }
+          ],
+          "released": "2015-02-09"
+        },
+        "chosen_by": "Aoife N\u00ed Bhriain",
+        "connection": "Composer Mark Mothersbaugh's openness about having ADHD connects to speculation that Mozart was neurodivergent; both composers display humor and quirkiness in their music.",
+        "timestamp": "00:25:45"
+      },
+      {
+        "artist": "Taylor Swift",
+        "name": "The Outside",
+        "spotify": {
+          "id": "5Tj2MqcFMf60CaGsKbM1aq",
+          "url": "https://open.spotify.com/track/5Tj2MqcFMf60CaGsKbM1aq",
+          "name": "The Outside",
+          "artists": [
+            {
+              "id": "06HL4z0CvFAxyc27GXpf02",
+              "name": "Taylor Swift"
+            }
+          ],
+          "released": "2006-10-24"
+        },
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "Mozart composed music from age five; Taylor Swift wrote \"The Outside\" at age twelve, highlighting prodigious young talent.",
+        "timestamp": "00:33:44"
+      }
+    ],
+    "series": 16,
+    "url": "https://www.bbc.co.uk/programmes/m002r4yk"
+  },
+  {
+    "broadcast": "2026-02-24T11:00:00+00:00",
+    "episode": 2,
+    "id": "m002rf0p",
+    "other_tracks": [],
+    "playlist_tracks": [
+      {
+        "artist": "Dolly Parton & Chet Atkins",
+        "name": "Do I Ever Cross Your Mind",
+        "chosen_by": "Anna Phoebe",
+        "connection": "Geographical link to Nashville, where Taylor Swift moved to pursue her music career; both artists associated with the Grand Ole Opry and country music scene.",
+        "timestamp": "00:02:21",
+        "spotify": {
+          "id": "0Gc5rsNFs2l5TKxeSLAYyK",
+          "url": "https://open.spotify.com/track/0Gc5rsNFs2l5TKxeSLAYyK",
+          "name": "Do I Ever Cross Your Mind",
+          "artists": [
+            {
+              "id": "4dZrt8Ong5t7YYpvbfp0RU",
+              "name": "Chet Atkins"
+            },
+            {
+              "id": "32vWCbZh0xZ4o9gkz4PsEU",
+              "name": "Dolly Parton"
+            }
+          ],
+          "released": "2001"
+        }
+      },
+      {
+        "artist": "Giacomo Puccini",
+        "name": "Tre sbirri, una carrozza...Te Deum",
+        "chosen_by": "Errollyn Wallen",
+        "connection": "Dolly Parton's Welsh ancestry (Conwy) connects to Welsh bass-baritone Bryn Terfel, who sang the role of Scarpia in Puccini's \"Tosca\".",
+        "timestamp": "00:09:31",
+        "spotify": {
+          "id": "4qZnN212J15ucuCGMk1ZaC",
+          "url": "https://open.spotify.com/track/4qZnN212J15ucuCGMk1ZaC",
+          "name": "Tosca, Act I: Tre sbirri, una carrozza, presto \u2013 Te Deum",
+          "artists": [
+            {
+              "id": "0OzxPXyowUEQ532c9AmHUR",
+              "name": "Giacomo Puccini"
+            }
+          ],
+          "released": "2009-01-01"
+        }
+      },
+      {
+        "artist": "Lorde",
+        "name": "Sober",
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "The plot of \"Tosca\" spans roughly 18 hours from afternoon to dawn; Lorde's album \"Melodrama\" tracks a single house party from evening into the following morning.",
+        "timestamp": "00:15:54",
+        "spotify": {
+          "id": "7eElVgPcxDqmgGrSwVFI74",
+          "url": "https://open.spotify.com/track/7eElVgPcxDqmgGrSwVFI74",
+          "name": "Sober",
+          "artists": [
+            {
+              "id": "163tK9Wjr9P9DmM0AVK7lm",
+              "name": "Lorde"
+            }
+          ],
+          "released": "2017-06-16"
+        }
+      },
+      {
+        "artist": "Elaine Paige",
+        "name": "Memory",
+        "chosen_by": "Richard Stilgoe",
+        "connection": "The word \"midnight\" in Lorde's \"Sober\" (\"midnight, lose my mind\") links to \"Memory\" from the musical \"Cats\", which begins with the line \"Midnight, not a sound from the pavement\".",
+        "timestamp": "00:23:54",
+        "spotify": {
+          "id": "5mEzNQPhgFFdd3qa5y3Og8",
+          "url": "https://open.spotify.com/track/5mEzNQPhgFFdd3qa5y3Og8",
+          "name": "Memory - From \"Cats\"",
+          "artists": [
+            {
+              "id": "4aP1lp10BRYZO658B2NwkG",
+              "name": "Andrew Lloyd Webber"
+            },
+            {
+              "id": "7KckozT8XPOqtgJjpAcrnA",
+              "name": "Elaine Paige"
+            }
+          ],
+          "released": "1988-11-07"
+        }
+      },
+      {
+        "artist": "Thin Lizzy",
+        "name": "With Love",
+        "chosen_by": "Anna Phoebe",
+        "connection": "The first commercial release of \"Memory\" was an instrumental by Irish guitarist Gary Moore, who was a member of Thin Lizzy; both tracks share Irish rock and blues influences.",
+        "timestamp": "00:32:07",
+        "spotify": {
+          "id": "0RW2GdRcn5qTrZPhXQLqML",
+          "url": "https://open.spotify.com/track/0RW2GdRcn5qTrZPhXQLqML",
+          "name": "Still In Love With You",
+          "artists": [
+            {
+              "id": "6biWAmrHyiMkX49LkycGqQ",
+              "name": "Thin Lizzy"
+            }
+          ],
+          "released": "1974"
+        }
+      }
+    ],
+    "series": 16,
+    "url": "https://www.bbc.co.uk/programmes/m002rf0p"
+  },
+  {
+    "broadcast": "2026-03-03T11:00:00+00:00",
+    "episode": 3,
+    "id": "m002rt1g",
+    "other_tracks": [],
+    "playlist_tracks": [
+      {
+        "artist": "Shakira",
+        "name": "Hips Don\u2019t Lie",
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "Both musicians have been honored with large bronze statues: Phil Lynott (Thin Lizzy) in Dublin, and Shakira in her hometown of Barranquilla, Colombia.",
+        "timestamp": "00:02:55",
+        "spotify": {
+          "id": "3d0WouFnFmr0K3kjeza3fF",
+          "url": "https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF",
+          "name": "Hips Don't Lie (feat. Wyclef Jean)",
+          "artists": [
+            {
+              "id": "0EmeFodog0BfCgMzAIvKQp",
+              "name": "Shakira"
+            },
+            {
+              "id": "7aBzpmFXB4WWpPl2F7RjBe",
+              "name": "Wyclef Jean"
+            }
+          ],
+          "released": "2005-11-28"
+        }
+      },
+      {
+        "artist": "Freshlyground",
+        "name": "Zithande",
+        "chosen_by": "Debbie Wiseman",
+        "connection": "Shakira performed \"Hips Don't Lie\" at the 2006 World Cup closing ceremony; she later co-wrote and performed the official 2010 World Cup song \"Waka Waka (This Time for Africa)\" with South African band Freshlyground.",
+        "timestamp": "00:10:45",
+        "spotify": {
+          "id": "6POnCFfPhnIAL5VSh4YqyC",
+          "url": "https://open.spotify.com/track/6POnCFfPhnIAL5VSh4YqyC",
+          "name": "Zithande",
+          "artists": [
+            {
+              "id": "7AcV1lk8Zrgo1691PDWEle",
+              "name": "Freshlyground"
+            }
+          ],
+          "released": "2004-09-03"
+        }
+      },
+      {
+        "artist": "Pink Floyd",
+        "name": "Another Brick in the Wall, Part 2,",
+        "chosen_by": "Anna Phoebe",
+        "connection": "Use of a children's choir in \"Zithande\" to amplify emotional weight; similar use of a children's choir in Pink Floyd's \"Another Brick in the Wall, Part 2\" as a protest against educational oppression.",
+        "timestamp": "00:18:37",
+        "spotify": {
+          "id": "4gMgiXfqyzZLMhsksGmbQV",
+          "url": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV",
+          "name": "Another Brick in the Wall, Pt. 2",
+          "artists": [
+            {
+              "id": "0k17h0D3J5VfsdmQ1iZtE9",
+              "name": "Pink Floyd"
+            }
+          ],
+          "released": "1979-11-30"
+        }
+      },
+      {
+        "artist": "Dmitri Shostakovich",
+        "name": "String Quartet No 8, 2nd mvt: Allegro Molto",
+        "chosen_by": "Jay Capperauld",
+        "connection": "Protagonist and protest theme in Pink Floyd's song leads to Shostakovich as a reluctant hero using his musical signature (DSCH cryptogram) to protest under the Soviet regime without lyrics.",
+        "timestamp": "00:26:02",
+        "spotify": {
+          "id": "3DL7joEwJDh9Enw9IBSnjp",
+          "url": "https://open.spotify.com/track/3DL7joEwJDh9Enw9IBSnjp",
+          "name": "String Quartet No. 8 in C Minor, Op. 110: II. Allegro molto",
+          "artists": [
+            {
+              "id": "6s1pCNXcbdtQJlsnM1hRIA",
+              "name": "Dmitri Shostakovich"
+            }
+          ],
+          "released": "2015-03-20"
+        }
+      },
+      {
+        "artist": "Joni Mitchell",
+        "name": "Big Yellow Taxi",
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "Shostakovich's quartet was partly inspired by the Allied bombing of Dresden; Joni Mitchell's \"Big Yellow Taxi\" laments environmental destruction, specifically the loss of natural beauty to urban development in Hawaii.",
+        "timestamp": "00:32:48",
+        "spotify": {
+          "id": "6pZl9egnYIe7YgRESbLaQv",
+          "url": "https://open.spotify.com/track/6pZl9egnYIe7YgRESbLaQv",
+          "name": "Big Yellow Taxi",
+          "artists": [
+            {
+              "id": "5hW4L92KnC6dX9t7tYM4Ve",
+              "name": "Joni Mitchell"
+            }
+          ],
+          "released": "2012-10-29"
+        }
+      }
+    ],
+    "series": 16,
+    "url": "https://www.bbc.co.uk/programmes/m002rt1g"
+  },
+  {
+    "broadcast": "2026-03-10T11:00:00+00:00",
+    "episode": 4,
+    "id": "m002s4qn",
+    "other_tracks": [],
+    "playlist_tracks": [
+      {
+        "artist": "Philip Glass",
+        "name": "Etudes: No 6",
+        "spotify": {
+          "id": "0fat1ldvI9MV88Pj2oSWLW",
+          "url": "https://open.spotify.com/track/0fat1ldvI9MV88Pj2oSWLW",
+          "name": "\u00c9tudes: No. 6",
+          "artists": [
+            {
+              "id": "69lxxQvsfAIoQbB20bEPFC",
+              "name": "Philip Glass"
+            },
+            {
+              "id": "7HUNjWo242UAVHZvj9zk4w",
+              "name": "Yuja Wang"
+            }
+          ],
+          "released": "2024-04-05"
+        },
+        "chosen_by": "Anna Phoebe",
+        "connection": "Both linked to taxis: Joni Mitchell's \"Big Yellow Taxi\" leads to Philip Glass, who worked as a taxi driver in New York while building his music career.",
+        "timestamp": "00:03:02"
+      },
+      {
+        "artist": "Radiohead",
+        "name": "Pyramid Song",
+        "spotify": {
+          "id": "55q3Ro66yXWi9rsEddeEN4",
+          "url": "https://open.spotify.com/track/55q3Ro66yXWi9rsEddeEN4",
+          "name": "Pyramid Song",
+          "artists": [
+            {
+              "id": "4Z8W4fKeB5YxbusRsdQVPb",
+              "name": "Radiohead"
+            }
+          ],
+          "released": "2001-03-12"
+        },
+        "chosen_by": "Carol Jarvis",
+        "connection": "Metric displacement in Glass's Etude No. 6 is also a key feature in Radiohead's \"Pyramid Song,\" where the rhythm disorients the listener.",
+        "timestamp": "00:09:43"
+      },
+      {
+        "artist": "Ann Rabson",
+        "name": "Hassle Attack",
+        "spotify": {
+          "id": "3YZmRHARCbsW1a7Epbt6zP",
+          "url": "https://open.spotify.com/track/3YZmRHARCbsW1a7Epbt6zP",
+          "name": "Hassle Attack",
+          "artists": [
+            {
+              "id": "0PRpfzDCS1IDiCmrgSVUZt",
+              "name": "Ann Rabson"
+            }
+          ],
+          "released": "2000-01-01"
+        },
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "Radiohead's Thom Yorke started playing piano in his early 30s; blues artist Ann Rabson also began playing piano in her mid-30s after establishing herself as a guitarist.",
+        "timestamp": "00:17:37"
+      },
+      {
+        "artist": "Sona Jobarteh",
+        "name": "Ballak\u00e9 Sissoko",
+        "spotify": {
+          "id": "32lEaWmm6W2dGOUSwwYovs",
+          "url": "https://open.spotify.com/track/32lEaWmm6W2dGOUSwwYovs",
+          "name": "Ballak\u00e9 Sissoko",
+          "artists": [
+            {
+              "id": "7JksKqLDuYE8QYj2WjiNQr",
+              "name": "Sona Jobarteh"
+            },
+            {
+              "id": "0OQeMFqoRD5clB0cPYVbxY",
+              "name": "Ballak\u00e9 Sissoko"
+            }
+          ],
+          "released": "2022-09-23"
+        },
+        "chosen_by": "Andrew Roachford",
+        "connection": "Blues has roots in African music and the pentatonic scale; Sona Jobarteh is a virtuoso of the kora (West African harp) and the first prominent female kora player in a male-dominated tradition.",
+        "timestamp": "00:25:59"
+      },
+      {
+        "artist": "Willie Nelson",
+        "name": "On the Road Again (Live)",
+        "spotify": {
+          "id": "51wQovDO0hf05pkZYvu1GI",
+          "url": "https://open.spotify.com/track/51wQovDO0hf05pkZYvu1GI",
+          "name": "On the Road Again - Live",
+          "artists": [
+            {
+              "id": "5W5bDNCqJ1jbCgTxDD0Cb3",
+              "name": "Willie Nelson"
+            }
+          ],
+          "released": "1975-01-01"
+        },
+        "chosen_by": "Anna Phoebe",
+        "connection": "Sona Jobarteh's musical lineage comes through her grandfather (Amadu Bansang Jobarteh); Willie Nelson was raised by his paternal grandparents, who fostered his musical education and gave him his first guitar at age six.",
+        "timestamp": "00:33:13"
+      }
+    ],
+    "series": 16,
+    "url": "https://www.bbc.co.uk/programmes/m002s4qn"
+  },
+  {
+    "broadcast": "2026-03-17T11:00:00+00:00",
+    "episode": 5,
+    "id": "m002sg6d",
+    "other_tracks": [],
+    "playlist_tracks": [
+      {
+        "artist": "Marvin Gaye",
+        "name": "Sexual Healing",
+        "spotify": {
+          "id": "3VZmChrnVW8JK6ano4gSED",
+          "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED",
+          "name": "Sexual Healing",
+          "artists": [
+            {
+              "id": "3koiLjNrgRTNbOwViDipeA",
+              "name": "Marvin Gaye"
+            }
+          ],
+          "released": "1982-10-01"
+        },
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "Both Marvin Gaye and Willie Nelson recorded albums to pay off substantial debts to the IRS (Gaye's \"Midnight Love\" and Nelson's \"The IRS Tapes: Who'll Buy My Memories?\").",
+        "timestamp": "00:03:25"
+      },
+      {
+        "artist": "Coldplay",
+        "name": "Clocks",
+        "spotify": {
+          "id": "74eOGQcLbrS7dDrn88Ctkl",
+          "url": "https://open.spotify.com/track/74eOGQcLbrS7dDrn88Ctkl",
+          "name": "Clocks",
+          "artists": [
+            {
+              "id": "4gzpq5DPGxSnKTe4SA8HAU",
+              "name": "Coldplay"
+            }
+          ],
+          "released": "2003-03-24"
+        },
+        "chosen_by": "Amy Harman",
+        "connection": "The habanera rhythm (1-2-3-1-2) in Marvin Gaye's \"Sexual Healing\" is the same rhythmic pattern that drives the piano riff in Coldplay's \"Clocks\".",
+        "timestamp": "00:12:37"
+      },
+      {
+        "artist": "Haydn",
+        "name": "The Clock (the 2nd mvt) from Symphony No 101 in D Major",
+        "spotify": {
+          "id": "2Ls8xs46ldKPw4POghPrUq",
+          "url": "https://open.spotify.com/track/2Ls8xs46ldKPw4POghPrUq",
+          "name": "Symphony No. 101 in D Major, Hob. I:101 \"The Clock\": II. Andante",
+          "artists": [
+            {
+              "id": "656RXuyw7CE0dtjdPgjJV6",
+              "name": "Joseph Haydn"
+            }
+          ],
+          "released": "1990-01-01"
+        },
+        "chosen_by": "Anna Phoebe",
+        "connection": "Coldplay's \"Clocks\" uses a repeating piano motif to express the idea of time; Haydn's Symphony No. 101, second movement, is nicknamed \"The Clock\" and depicts ticking through rhythm and orchestration.",
+        "timestamp": "00:19:14"
+      },
+      {
+        "artist": "Prokofiev",
+        "name": "Precipitato (the 3rd mvt) from Piano Sonata No 7 in B Flat Major",
+        "spotify": {
+          "id": "50S5UdxQOusnI8daIY7nQ2",
+          "url": "https://open.spotify.com/track/50S5UdxQOusnI8daIY7nQ2",
+          "name": "Prokofiev: Piano Sonata No. 7 in B-Flat Major, Op. 83: III. Precipitato",
+          "artists": [
+            {
+              "id": "4kHtgiRnpmFIV5Tm4BIs8l",
+              "name": "Sergei Prokofiev"
+            }
+          ],
+          "released": "2000-02-25"
+        },
+        "chosen_by": "Nicholas McCarthy",
+        "connection": "Repetition as a musical device: Haydn's gentle ticking clock contrasts with Prokofiev's relentless, menacing repeated figures in the third movement of Piano Sonata No. 7 (\"Precipitato\"), written during WWII.",
+        "timestamp": "00:26:21"
+      },
+      {
+        "artist": "Wu-Tang Clan",
+        "name": "Gravel Pit",
+        "spotify": {
+          "id": "2tNmhDlMbwQZLxQtWMt2EU",
+          "url": "https://open.spotify.com/track/2tNmhDlMbwQZLxQtWMt2EU",
+          "name": "Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon & U-God)",
+          "artists": [
+            {
+              "id": "34EP7KEpOjXcM2TCat1ISk",
+              "name": "Wu-Tang Clan"
+            },
+            {
+              "id": "4iCwCMnqsNZ6atvRiADgtn",
+              "name": "RZA"
+            },
+            {
+              "id": "4VmEWwd8y9MCLwexFMdpwt",
+              "name": "Method Man"
+            },
+            {
+              "id": "6FD0unjzGQhX3b6eMccMJe",
+              "name": "Ghostface Killah"
+            },
+            {
+              "id": "2yQf6b8hxahZaT5dHlWaB1",
+              "name": "Raekwon"
+            },
+            {
+              "id": "0G070wUUUBptmqGEKAAUVx",
+              "name": "U-God"
+            }
+          ],
+          "released": "2004-10-26"
+        },
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "Prokofiev was a master-level chess player who defeated a world champion; RZA (of Wu-Tang Clan) is a devoted chess player, director of the Hip-Hop Chess Federation, and incorporates chess references into his music and production strategy.",
+        "timestamp": "00:32:26"
+      }
+    ],
+    "series": 16,
+    "url": "https://www.bbc.co.uk/programmes/m002sg6d"
+  },
+  {
+    "broadcast": "2026-03-24T11:00:00+00:00",
+    "episode": 6,
+    "id": "m002snjb",
+    "other_tracks": [],
+    "playlist_tracks": [
+      {
+        "artist": "AC/DC",
+        "name": "Thunderstruck",
+        "spotify": {
+          "id": "57bgtoPSgt236HzfBOd8kj",
+          "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+          "name": "Thunderstruck",
+          "artists": [
+            {
+              "id": "711MCceyCBcFnzjGY4Q7Un",
+              "name": "AC/DC"
+            }
+          ],
+          "released": "1990-09-24"
+        },
+        "chosen_by": "Anna Phoebe",
+        "connection": "Abbreviations: RZA (of Wu-Tang Clan) stands for \"Ruler, Zig-Zag-Zig, Allah\"; AC/DC stands for \"Alternating Current/Direct Current\", taken from a sewing machine.",
+        "timestamp": "00:03:00"
+      },
+      {
+        "artist": "James Brown",
+        "name": "I Got You (I Feel Good)",
+        "spotify": {
+          "id": "711ba03szQaASPznwdZkuw",
+          "url": "https://open.spotify.com/track/711ba03szQaASPznwdZkuw",
+          "name": "I Got You - 1964 Smash Version",
+          "artists": [
+            {
+              "id": "7GaxyUddsPok8BuhxN6OUW",
+              "name": "James Brown"
+            }
+          ],
+          "released": "2014-07-29"
+        },
+        "chosen_by": "Anne Dudley",
+        "connection": "Signature stage moves: Angus Young of AC/DC performs a one-legged hopping move while playing guitar, inspired by Chuck Berry and James Brown, whose signature moves included leaping into the splits and using the microphone stand as an accessory.",
+        "timestamp": "00:10:54"
+      },
+      {
+        "artist": "Claude Debussy",
+        "name": "Hommage \u00e0 Rameau",
+        "spotify": {
+          "id": "5t8o8IQkhSuXdK5lz8Ubew",
+          "url": "https://open.spotify.com/track/5t8o8IQkhSuXdK5lz8Ubew",
+          "name": "Images I, CD 105: II. Hommage \u00e0 Rameau",
+          "artists": [
+            {
+              "id": "1Uff91EOsvd99rtAupatMP",
+              "name": "Claude Debussy"
+            }
+          ],
+          "released": "1994-01-01"
+        },
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "The dominant ninth chord appears in James Brown's \"I Got You (I Feel Good)\" and also features prominently in Debussy's \"Hommage \u00e0 Rameau\", creating harmonic ambiguity and a floating quality.",
+        "timestamp": "00:18:54"
+      },
+      {
+        "artist": "Ella Fitzgerald",
+        "name": "My Reverie",
+        "spotify": {
+          "id": "1gHfnEVauFveShQLQH7GOL",
+          "url": "https://open.spotify.com/track/1gHfnEVauFveShQLQH7GOL",
+          "name": "My Reverie",
+          "artists": [
+            {
+              "id": "5V0MlUE1Bft0mbLlND7FJz",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "released": "1989-06-20"
+        },
+        "chosen_by": "Guy Barker",
+        "connection": "Debussy's harmonic language inspired jazz musicians; Larry Clinton based his song \"My Reverie\" on Debussy's \"R\u00eaverie\", keeping the melody virtually identical, and Ella Fitzgerald recorded a famous version.",
+        "timestamp": "00:26:34"
+      },
+      {
+        "artist": "Run-D.M.C.",
+        "name": "Peter Piper",
+        "spotify": {
+          "id": "4jypM5wJ4fKcene3I0SqUW",
+          "url": "https://open.spotify.com/track/4jypM5wJ4fKcene3I0SqUW",
+          "name": "Peter Piper",
+          "artists": [
+            {
+              "id": "3CQIn7N5CuRDP8wEI7FiDA",
+              "name": "Run\u2013D.M.C."
+            }
+          ],
+          "released": "1986-05-15"
+        },
+        "chosen_by": "Anna Phoebe",
+        "connection": "Nursery rhymes: Ella Fitzgerald's first breakout hit in 1938 was \"A-Tisket, A-Tasket\", based on a children's nursery rhyme; Run-D.M.C.'s \"Peter Piper\" samples and references at least eight nursery rhymes and children's stories.",
+        "timestamp": "00:32:42"
+      }
+    ],
+    "series": 16,
+    "url": "https://www.bbc.co.uk/programmes/m002snjb"
+  },
+  {
+    "broadcast": "2026-03-31T11:00:00+01:00",
+    "episode": 7,
+    "id": "m002t2lg",
+    "other_tracks": [],
+    "playlist_tracks": [
+      {
+        "artist": "Janis Joplin",
+        "name": "Mercedes Benz",
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "Commercial relationships with brands: Run-D.M.C. signed a $1.6 million endorsement deal with Adidas; Janis Joplin's \"Mercedes Benz\" critiques consumerism but was later used in a Mercedes ad.",
+        "timestamp": "00:02:42",
+        "spotify": {
+          "id": "1MntHPLU1T7a9W4tojbg8g",
+          "url": "https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g",
+          "name": "Mercedes Benz",
+          "artists": [
+            {
+              "id": "4NgfOZCL9Ml67xzM0xzIvC",
+              "name": "Janis Joplin"
+            }
+          ],
+          "released": "1971-01-11"
+        }
+      },
+      {
+        "artist": "Giovanni Battista Pergolesi",
+        "name": "Stabat Mater Dolorosa",
+        "chosen_by": "Matilda Lloyd",
+        "connection": "Untimely death at a young age: Janis Joplin died at 27; Pergolesi died at 26 while writing his \"Stabat Mater\", which became his most famous piece.",
+        "timestamp": "00:09:34",
+        "spotify": {
+          "id": "1S78m0ksPkMi3lzARmjFwW",
+          "url": "https://open.spotify.com/track/1S78m0ksPkMi3lzARmjFwW",
+          "name": "Pergolesi: Stabat Mater: I. Stabat mater dolorosa",
+          "artists": [
+            {
+              "id": "08ewVs9B2qQZ2Gy3xfTFyo",
+              "name": "Giovanni Battista Pergolesi"
+            }
+          ],
+          "released": "2019-10-25"
+        }
+      },
+      {
+        "artist": "Sophia Loren",
+        "name": "Mambo Bacan",
+        "chosen_by": "Anna Phoebe",
+        "connection": "Geographical location: Pergolesi died in Pozzuoli, Italy; Sophia Loren grew up there as a child, and \"Mambo Bacan\" is from her early career.",
+        "timestamp": "00:17:51",
+        "spotify": {
+          "id": "7MnpDyga7UQz4TKSltsOAb",
+          "url": "https://open.spotify.com/track/7MnpDyga7UQz4TKSltsOAb",
+          "name": "Mambo Bacan",
+          "artists": [
+            {
+              "id": "5El7Fa5t7eVZyZKhsAixU7",
+              "name": "Sophia Loren"
+            },
+            {
+              "id": "4QmiAY161oA30znYyHG64i",
+              "name": "Orchestra Armando Trovajoli"
+            }
+          ],
+          "released": "2014-01-01"
+        }
+      },
+      {
+        "artist": "Henry Mancini",
+        "name": "The Pink Panther Theme",
+        "chosen_by": "Neil Brand",
+        "connection": "Sophia Loren had a relationship with Peter Sellers; Sellers starred as Inspector Clouseau in \"The Pink Panther\", for which Henry Mancini composed the iconic theme.",
+        "timestamp": "00:25:33",
+        "spotify": {
+          "id": "0rcEA09uIGmaZJxSCY0ovD",
+          "url": "https://open.spotify.com/track/0rcEA09uIGmaZJxSCY0ovD",
+          "name": "The Pink Panther Theme - From \"The Pink Panther\"",
+          "artists": [
+            {
+              "id": "2EExdpjU4SK3xnJHO5paJf",
+              "name": "Henry Mancini"
+            },
+            {
+              "id": "4Xqx9yiQsWMNXE2oKbm5uc",
+              "name": "Plas Johnson"
+            }
+          ],
+          "released": "2010-08-24"
+        }
+      },
+      {
+        "artist": "Destiny\u2019s Child",
+        "name": "Say My Name",
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "Grammy Awards: Henry Mancini had 72 nominations and 20 wins; Beyonc\u00e9 (of Destiny's Child) holds the record for most Grammy wins (35) and most nominations (99), and \"Say My Name\" won two Grammys in 2001.",
+        "timestamp": "00:34:10",
+        "spotify": {
+          "id": "2gSyc23Hua25fqSFpgAh6W",
+          "url": "https://open.spotify.com/track/2gSyc23Hua25fqSFpgAh6W",
+          "name": "Say My Name",
+          "artists": [
+            {
+              "id": "1Y8cdNmUJH7yBTd9yOvr5i",
+              "name": "Destiny's Child"
+            }
+          ],
+          "released": "1999-09-07"
+        }
+      }
+    ],
+    "series": 16,
+    "url": "https://www.bbc.co.uk/programmes/m002t2lg"
   }
 ]
