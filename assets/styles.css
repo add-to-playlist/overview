@@ -1,0 +1,21 @@
+:root {
+    --pico-block-spacing-vertical: 2rem;
+}
+.table-warning {
+    background-color: var(--pico-color-amber-150);
+}
+@media only screen and (prefers-color-scheme: dark) {
+    .table-warning {
+        background-color: var(--pico-color-amber-600);
+    }
+}
+/* Unfortunately necessary to properly handle rowspan elements */
+.td-odd {
+    background-color: var(--pico-table-row-stripped-background-color) !important;
+}
+.td-even {
+    background-color: var(--pico-background-color) !important;
+}
+#artist-bar-chart {
+    min-height: 1024px;
+}

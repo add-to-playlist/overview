@@ -1,3 +1,4 @@
+import hashlib
 import json
 import os
 
@@ -41,7 +42,8 @@ def main():
 
     artist_leaderboard_amt = 25
     artist_leaderboard = get_artist_leaderboard(
-        all_series, amount=artist_leaderboard_amt
+        all_series=all_series,
+        amount=artist_leaderboard_amt,
     )
 
     presenter_leaderboard_amt = 10
@@ -50,15 +52,29 @@ def main():
         amount=presenter_leaderboard_amt,
     )
 
+    bar_chart_labels = [", ".join(item["names"]) for item in artist_leaderboard]
+    bar_chart_data = [item["count"] for item in artist_leaderboard]
+    bar_chart_tracks = [
+        [f"S{t['series']:02}E{t['episode']:02} - {t['name']}" for t in item["tracks"]]
+        for item in artist_leaderboard
+    ]
+
+    with open("../assets/styles.css", "rb") as f:
+        styles_hash = hashlib.sha256(f.read()).hexdigest()[:12]
+
     output = template.render(
         all_series=all_series,
         all_series_playlist=ALL_PLAYLIST_ID,
-        artist_leaderboard_amt=artist_leaderboard_amt,
         artist_leaderboard=artist_leaderboard,
-        presenter_leaderboard_amt=presenter_leaderboard_amt,
-        presenter_leaderboard=presenter_leaderboard,
+        artist_leaderboard_amt=artist_leaderboard_amt,
+        bar_chart_data=bar_chart_data,
+        bar_chart_labels=bar_chart_labels,
+        bar_chart_tracks=bar_chart_tracks,
+        styles_hash=styles_hash,
         max_visible_artists=3,
         max_visible_picks=5,
+        presenter_leaderboard=presenter_leaderboard,
+        presenter_leaderboard_amt=presenter_leaderboard_amt,
     )
 
     with open(OUTPUT_HTML_PATH, mode="w", encoding="utf8") as f:

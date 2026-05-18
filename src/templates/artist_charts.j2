@@ -1,0 +1,73 @@
+<div>
+    <canvas id="artist-bar-chart"></canvas>
+</div>
+
+<script
+    src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.5.0/chart.umd.min.js"
+    integrity="sha512-Y51n9mtKTVBh3Jbx5pZSJNDDMyY+yGe77DGtBPzRlgsf/YLCh13kSZ3JmfHGzYFCmOndraf0sQgfM654b7dJ3w=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+></script>
+<script>
+    const BAR_TRACKS = {{ bar_chart_tracks | tojson }};
+    const BAR_COLORS = [
+        '#e6194b', '#3cb44b', '#4363d8', '#f58231', '#911eb4',
+        '#42d4f4', '#f032e6', '#bfef45', '#fabed4', '#469990',
+        '#dcbeff', '#9a6324', '#800000', '#aaffc3', '#808000',
+        '#ffd8b1', '#000075', '#a9a9a9', '#ffe119', '#e6beff',
+        '#00bcd4', '#ff6f61', '#6b5b95', '#88b04b', '#f7cac9',
+    ];
+
+    const bodyStyle = getComputedStyle(document.body);
+    const fontFamily = bodyStyle.fontFamily;
+    const fontColor = bodyStyle.color;
+    const fontSize = parseFloat(bodyStyle.fontSize);
+
+    new Chart(document.getElementById('artist-bar-chart'), {
+        type: 'bar',
+        data: {
+            labels: {{ bar_chart_labels | tojson }},
+            datasets: [{
+                data: {{ bar_chart_data | tojson }},
+                backgroundColor: BAR_COLORS,
+                borderWidth: 0,
+            }],
+        },
+        options: {
+            indexAxis: 'y',
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    display: false,
+                },
+                tooltip: {
+                    displayColors: false,
+                    titleFont: { family: fontFamily, size: 16 },
+                    bodyFont: { family: fontFamily, size: 16 },
+                    callbacks: {
+                        label: () => '',
+                        afterBody: (items) => BAR_TRACKS[items[0].dataIndex],
+                    },
+                },
+            },
+            scales: {
+                x: {
+                    beginAtZero: true,
+                    ticks: {
+                        stepSize: 1,
+                        color: fontColor,
+                        font: { family: fontFamily, size: fontSize },
+                    },
+                },
+                y: {
+                    grid: { display: false },
+                    ticks: {
+                        color: fontColor,
+                        font: { family: fontFamily, size: fontSize },
+                    },
+                },
+            },
+        },
+    });
+</script>
