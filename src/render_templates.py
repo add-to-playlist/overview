@@ -46,7 +46,8 @@ def main():
 
     presenter_leaderboard_amt = 10
     presenter_leaderboard = get_presenter_leaderboard(
-        all_series, amount=presenter_leaderboard_amt
+        all_series=all_series,
+        amount=presenter_leaderboard_amt,
     )
 
     output = template.render(

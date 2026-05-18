@@ -1,6 +1,6 @@
 from collections import defaultdict
 
-from project.models import PresenterLeaderboardRow
+from project.models import PresenterLeaderboardRow, SeriesCollection
 
 # Playlist of all tracks
 ALL_PLAYLIST_ID = "2PgU4Fct9zICx1Hbt4X8N0"
@@ -61,7 +61,10 @@ def get_rank_labels(leaderboard: list):
     return ranks
 
 
-def get_artist_leaderboard(all_series, amount: int):
+def get_artist_leaderboard(
+    all_series: SeriesCollection,
+    amount: int,
+):
     all_artists = {}
     leaderboard = []
 
@@ -114,7 +117,10 @@ def get_artist_leaderboard(all_series, amount: int):
     return leaderboard
 
 
-def get_presenter_leaderboard(all_series, amount: int):
+def get_presenter_leaderboard(
+    all_series: SeriesCollection,
+    amount: int,
+):
     leaderboard = []
     d = defaultdict(list)
 

@@ -1,15 +1,16 @@
 import dataclasses
 
 from collections import defaultdict
+from typing import Optional
 
 
 class SeriesCollection:
     def __init__(self, episodes: list):
-        self.episodes = []
-        self.series = []
+        self.episodes: list[Episode] = []
+        self.series: list[Series] = []
         self._parse(episodes)
 
-    def __getitem__(self, index):
+    def __getitem__(self, index: int):
         return self.series[index]
 
     def __iter__(self):
@@ -26,8 +27,8 @@ class SeriesCollection:
             grouped[episode.series].append(episode)
             self.episodes.append(episode)
 
-        for x, item in enumerate(grouped.values()):
-            self.series.append(Series(number=x + 1, episodes=item))
+        for x, item in enumerate(grouped.values(), start=1):
+            self.series.append(Series(number=x, episodes=item))
 
 
 @dataclasses.dataclass
@@ -35,7 +36,7 @@ class Series:
     number: int
     episodes: list
 
-    def __getitem__(self, index):
+    def __getitem__(self, index: int):
         return self.episodes[index]
 
     def __iter__(self):
@@ -54,64 +55,21 @@ class Series:
 
 
 @dataclasses.dataclass
-class Episode:
+class SpotifyArtist:
+    id: str
+    name: str
+
+
+@dataclasses.dataclass
+class SpotifyData:
     id: str
     url: str
-    playlist_tracks: list
-    other_tracks: list
-    series: int
-    episode: int
-    broadcast: str
-    one_off_special: bool = False
-    comments: str | None = None
+    name: str
+    artists: list[SpotifyArtist]
+    released: str
 
     def __post_init__(self):
-        playlist_tracks = []
-
-        for x, item in enumerate(self.playlist_tracks):
-            track = Track(
-                _name=item.get("name"),
-                number=x + 1,
-                artist=item.get("artist"),
-                chosen_by=item.get("chosen_by"),
-                spotify=item.get("spotify"),
-                youtube=item.get("youtube"),
-                connection=item.get("connection"),
-                timestamp=item.get("timestamp"),
-                comments=item.get("comments"),
-            )
-            playlist_tracks.append(track)
-
-        self.playlist_tracks = playlist_tracks
-
-    def __getitem__(self, index):
-        return self.playlist_tracks[index]
-
-    def __iter__(self):
-        return iter(self.playlist_tracks)
-
-    @property
-    def number(self):
-        return self.episode
-
-    @property
-    def track_count(self):
-        return len(self.playlist_tracks)
-
-    @property
-    def is_first(self):
-        return self.episode == 1
-
-    @property
-    def has_episode_comments(self):
-        return self.comments is not None
-
-    @property
-    def has_track_comments(self):
-        for track in self.playlist_tracks:
-            if track.has_comments:
-                return True
-        return False
+        self.artists = [SpotifyArtist(**item) for item in self.artists]
 
 
 @dataclasses.dataclass
@@ -120,11 +78,11 @@ class Track:
     number: int
     artist: str
     chosen_by: str
-    spotify: dict
-    youtube: str | None = None
-    connection: str | None = None
-    timestamp: str | None = None
-    comments: str | None = None
+    spotify: SpotifyData | None
+    youtube: Optional[str] = None
+    connection: Optional[str] = None
+    timestamp: Optional[str] = None
+    comments: Optional[str] = None
 
     def __post_init__(self):
         if self.spotify is not None:
@@ -167,21 +125,64 @@ class Track:
 
 
 @dataclasses.dataclass
-class SpotifyData:
+class Episode:
     id: str
     url: str
-    name: str
-    artists: list
-    released: str
+    playlist_tracks: list
+    other_tracks: list
+    series: int
+    episode: int
+    broadcast: str
+    one_off_special: bool = False
+    comments: Optional[str] = None
 
     def __post_init__(self):
-        self.artists = [SpotifyArtist(**item) for item in self.artists]
+        playlist_tracks = []
 
+        for x, item in enumerate(self.playlist_tracks, start=1):
+            track = Track(
+                _name=item.get("name"),
+                number=x,
+                artist=item.get("artist"),
+                chosen_by=item.get("chosen_by"),
+                spotify=item.get("spotify"),
+                youtube=item.get("youtube"),
+                connection=item.get("connection"),
+                timestamp=item.get("timestamp"),
+                comments=item.get("comments"),
+            )
+            playlist_tracks.append(track)
 
-@dataclasses.dataclass
-class SpotifyArtist:
-    id: str
-    name: str
+        self.playlist_tracks = playlist_tracks
+
+    def __getitem__(self, index: int):
+        return self.playlist_tracks[index]
+
+    def __iter__(self):
+        return iter(self.playlist_tracks)
+
+    @property
+    def number(self):
+        return self.episode
+
+    @property
+    def track_count(self):
+        return len(self.playlist_tracks)
+
+    @property
+    def is_first(self):
+        return self.episode == 1
+
+    @property
+    def has_episode_comments(self):
+        return self.comments is not None
+
+    @property
+    def has_track_comments(self):
+        for track in self.playlist_tracks:
+            if track.has_comments:
+                return True
+        return False
 
 
 @dataclasses.dataclass
