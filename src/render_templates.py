@@ -2,6 +2,8 @@ import hashlib
 import json
 import os
 
+import minify_html
+
 from jinja2 import Environment, FileSystemLoader, StrictUndefined
 
 from project.filters import filters
@@ -77,8 +79,10 @@ def main():
         presenter_leaderboard_amt=presenter_leaderboard_amt,
     )
 
+    minified = minify_html.minify(code=output, minify_js=True)
+
     with open(OUTPUT_HTML_PATH, mode="w", encoding="utf8") as f:
-        f.write(output)
+        f.write(minified)
 
 
 if __name__ == "__main__":
