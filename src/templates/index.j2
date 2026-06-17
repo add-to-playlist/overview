@@ -61,7 +61,10 @@
                         <a href="#overview-all-series">Overview (all series)</a>
                     </li>
                     <li>
-                        <a href="#top-{{ artist_leaderboard_amt }}-artists">Top {{ artist_leaderboard_amt }} artists</a>
+                        <a href="#top-{{ artist_leaderboard_amt }}-artists-table">Top {{ artist_leaderboard_amt }} artists - table</a>
+                    </li>
+                    <li>
+                        <a href="#top-{{ artist_leaderboard_amt }}-artists-charts">Top {{ artist_leaderboard_amt }} artists - charts</a>
                     </li>
                     <li>
                         <a href="#top-{{ presenter_leaderboard_amt }}-presenters">Top {{ presenter_leaderboard_amt }} presenters by tracks picked</a>
@@ -82,8 +85,14 @@
                 {% include "overview_all_series.j2" %}
             </section>
 
-            <section id="top-{{ artist_leaderboard_amt }}-artists">
+            <section id="top-{{ artist_leaderboard_amt }}-artists-table">
                 {% include "top_artists.j2" %}
+            </section>
+
+            <section id="top-{{ artist_leaderboard_amt }}-artists-charts">
+                <h2>Top {{ artist_leaderboard_amt }} artists - charts</h2>
+
+                {% include "artist_charts.j2" %}
             </section>
 
             <section id="top-{{ presenter_leaderboard_amt }}-presenters">

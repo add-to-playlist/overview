@@ -1,5 +1,11 @@
-<div>
-    <canvas id="artist-bar-chart"></canvas>
+<div class="chart-wrapper">
+    <div>
+        <canvas id="artist-bar-chart" class="tall-chart"></canvas>
+    </div>
+
+    <div>
+        <canvas id="artist-heatmap" class="tall-chart"></canvas>
+    </div>
 </div>
 
 <script
@@ -9,8 +15,17 @@
     referrerpolicy="no-referrer"
     defer
 ></script>
+<script
+    src="https://cdn.jsdelivr.net/npm/chartjs-chart-matrix@3.0.4/dist/chartjs-chart-matrix.min.js"
+    defer
+></script>
 <script>
     document.addEventListener('DOMContentLoaded', () => {
+        const bodyStyle = getComputedStyle(document.body);
+        const fontFamily = bodyStyle.fontFamily;
+        const fontColor = bodyStyle.color;
+        const fontSize = parseFloat(bodyStyle.fontSize);
+
         const BAR_TRACKS = {{ bar_chart_tracks | tojson }};
         const BAR_COLORS = [
             '#e6194b', '#3cb44b', '#4363d8', '#f58231', '#911eb4',
@@ -19,11 +34,6 @@
             '#ffd8b1', '#000075', '#a9a9a9', '#ffe119', '#e6beff',
             '#00bcd4', '#ff6f61', '#6b5b95', '#88b04b', '#f7cac9',
         ];
-
-        const bodyStyle = getComputedStyle(document.body);
-        const fontFamily = bodyStyle.fontFamily;
-        const fontColor = bodyStyle.color;
-        const fontSize = parseFloat(bodyStyle.fontSize);
 
         new Chart(document.getElementById('artist-bar-chart'), {
             type: 'bar',
@@ -40,6 +50,12 @@
                 responsive: true,
                 maintainAspectRatio: false,
                 plugins: {
+                    title: {
+                        display: true,
+                        text: 'Total picks per artist',
+                        color: fontColor,
+                        font: { family: fontFamily, size: fontSize },
+                    },
                     legend: {
                         display: false,
                     },
@@ -63,6 +79,90 @@
                         },
                     },
                     y: {
+                        grid: { display: false },
+                        ticks: {
+                            color: fontColor,
+                            font: { family: fontFamily, size: fontSize },
+                        },
+                    },
+                },
+            },
+        });
+
+        const SERIES = {{ heatmap_series | tojson }};
+        const ARTISTS = {{ heatmap_artists | tojson }};
+        const HEATMAP_DATA = {{ heatmap_data | tojson }};
+        const maxCount = Math.max(...HEATMAP_DATA.map((d) => d.v));
+
+        new Chart(document.getElementById('artist-heatmap'), {
+            type: 'matrix',
+            data: {
+                datasets: [{
+                    data: HEATMAP_DATA,
+                    backgroundColor: (ctx) => {
+                        const v = ctx.raw.v;
+                        if (v === 0) {
+                            return 'transparent';
+                        }
+                        const alpha = 0.2 + 0.8 * (v / maxCount);
+                        return `rgba(67, 99, 216, ${alpha})`;
+                    },
+                    borderColor: 'rgba(128, 128, 128, 0.2)',
+                    borderWidth: 1,
+                    width: ({ chart }) =>
+                        (chart.chartArea || {}).width / SERIES.length - 1,
+                    height: ({ chart }) =>
+                        (chart.chartArea || {}).height / ARTISTS.length - 1,
+                }],
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'Picks per artist by series',
+                        color: fontColor,
+                        font: { family: fontFamily, size: fontSize },
+                    },
+                    legend: { display: false },
+                    tooltip: {
+                        displayColors: false,
+                        filter: (item) => item.raw.v > 0,
+                        titleFont: { family: fontFamily, size: fontSize },
+                        bodyFont: { family: fontFamily, size: fontSize },
+                        callbacks: {
+                            title: (items) => items[0]?.raw.y ?? '',
+                            label: (item) => {
+                                const { x, v } = item.raw;
+                                const times = v === 1 ? 'time' : 'times';
+                                return `Series ${x}: picked ${v} ${times}`;
+                            },
+                            afterBody: (items) => items[0]?.raw.tracks ?? [],
+                        },
+                    },
+                },
+                scales: {
+                    x: {
+                        type: 'category',
+                        labels: SERIES,
+                        offset: true,
+                        title: {
+                            display: true,
+                            text: 'Series',
+                            color: fontColor,
+                            font: { family: fontFamily, size: fontSize },
+                        },
+                        grid: { display: false },
+                        ticks: {
+                            color: fontColor,
+                            font: { family: fontFamily, size: fontSize },
+                        },
+                    },
+                    y: {
+                        type: 'category',
+                        labels: [...ARTISTS].reverse(),
+                        offset: true,
                         grid: { display: false },
                         ticks: {
                             color: fontColor,

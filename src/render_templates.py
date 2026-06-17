@@ -61,6 +61,22 @@ def main():
         for item in artist_leaderboard
     ]
 
+    series_numbers = [series.number for series in all_series]
+    heatmap_series = [str(n) for n in series_numbers]
+    heatmap_artists = bar_chart_labels
+    heatmap_data = []
+    for label, item in zip(bar_chart_labels, artist_leaderboard):
+        by_series = {}
+        for track in item["tracks"]:
+            by_series.setdefault(track["series"], []).append(
+                f"S{track['series']:02}E{track['episode']:02} - {track['name']}"
+            )
+        for n in series_numbers:
+            tracks = by_series.get(n, [])
+            heatmap_data.append(
+                {"x": str(n), "y": label, "v": len(tracks), "tracks": tracks}
+            )
+
     with open("../assets/styles.css", "rb") as f:
         styles_hash = hashlib.sha256(f.read()).hexdigest()[:12]
 
@@ -72,6 +88,9 @@ def main():
         bar_chart_data=bar_chart_data,
         bar_chart_labels=bar_chart_labels,
         bar_chart_tracks=bar_chart_tracks,
+        heatmap_series=heatmap_series,
+        heatmap_artists=heatmap_artists,
+        heatmap_data=heatmap_data,
         styles_hash=styles_hash,
         max_visible_artists=3,
         max_visible_picks=5,

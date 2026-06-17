@@ -16,6 +16,9 @@
 .td-even {
     background-color: var(--pico-background-color) !important;
 }
-#artist-bar-chart {
+.chart-wrapper > div:not(:last-child) {
+    margin-bottom: var(--pico-block-spacing-vertical);
+}
+.tall-chart {
     min-height: 1024px;
 }
