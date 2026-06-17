@@ -2,11 +2,11 @@
     --pico-block-spacing-vertical: 2rem;
 }
 .table-warning {
-    background-color: var(--pico-color-amber-150);
+    background-color: var(--pico-color-amber-150) !important;
 }
 @media only screen and (prefers-color-scheme: dark) {
     .table-warning {
-        background-color: var(--pico-color-amber-600);
+        background-color: var(--pico-color-amber-600) !important;
     }
 }
 /* Unfortunately necessary to properly handle rowspan elements */
