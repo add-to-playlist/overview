@@ -58,13 +58,13 @@
 
                 <ol>
                     <li>
-                        <a href="#overview-all-series">Overview (All Series)</a>
+                        <a href="#overview-all-series">Overview (all series)</a>
                     </li>
                     <li>
-                        <a href="#top-{{ artist_leaderboard_amt }}-artists">Top {{ artist_leaderboard_amt }} Artists</a>
+                        <a href="#top-{{ artist_leaderboard_amt }}-artists">Top {{ artist_leaderboard_amt }} artists</a>
                     </li>
                     <li>
-                        <a href="#top-{{ presenter_leaderboard_amt }}-presenters">Top {{ presenter_leaderboard_amt }} Presenters by Tracks Picked</a>
+                        <a href="#top-{{ presenter_leaderboard_amt }}-presenters">Top {{ presenter_leaderboard_amt }} presenters by tracks picked</a>
                     </li>
                     {% for series in all_series %}
                         <li>
@@ -75,7 +75,7 @@
             </section>
 
             <section id="overview-all-series">
-                <h2>Overview (All Series)</h2>
+                <h2>Overview (all series)</h2>
 
                 <p>A Spotify playlist containing every track chosen in the series so far can be found <a href="{{ all_series_playlist | spotify_playlist_url }}" target="_blank">here</a> (excluding, of course, the small number of tracks that aren't available on Spotify).</p>
 
