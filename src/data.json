@@ -14053,5 +14053,655 @@
     ],
     "series": 16,
     "url": "https://www.bbc.co.uk/programmes/m002t2lg"
+  },
+  {
+    "id": "m002wkx2",
+    "url": "https://www.bbc.co.uk/programmes/m002wkx2",
+    "broadcast": "2026-05-26T11:00:00+01:00",
+    "playlist_tracks": [
+      {
+        "artist": "The Lovin\u2019 Spoonful",
+        "name": "Summer in the City",
+        "spotify": {
+          "id": "7yso4IDOXI6yLI3n3VnQP4",
+          "url": "https://open.spotify.com/track/7yso4IDOXI6yLI3n3VnQP4",
+          "name": "Summer in the City",
+          "artists": [
+            {
+              "id": "7CCn4PFRRRZF127jtCBAUe",
+              "name": "The Lovin' Spoonful"
+            }
+          ],
+          "released": "2000-03-27"
+        },
+        "chosen_by": "Anna Phoebe",
+        "timestamp": "00:00"
+      },
+      {
+        "artist": "George Gershwin",
+        "name": "An American in Paris",
+        "spotify": {
+          "id": "75o4NrU5FdLzKHFgDCq8to",
+          "url": "https://open.spotify.com/track/75o4NrU5FdLzKHFgDCq8to",
+          "name": "An American in Paris (Ed. M. Clauge) - Live",
+          "artists": [
+            {
+              "id": "1YuknfkSYTTbolRpwZBOv4",
+              "name": "George Gershwin"
+            },
+            {
+              "id": "47lbvBv6v9UShnf2jlHcmu",
+              "name": "Cincinnati Symphony Orchestra"
+            },
+            {
+              "id": "7e2ILiOIViOE4UwWsomh8d",
+              "name": "Louis Langr\u00e9e"
+            }
+          ],
+          "released": "2024-05-03"
+        },
+        "chosen_by": "Ben Gernon",
+        "connection": "Both feature city soundscapes with car horns (real taxi horns in Gershwin, recorded car horns and pneumatic drill in The Lovin' Spoonful).",
+        "timestamp": "10:06"
+      },
+      {
+        "artist": "Jean-Baptiste Lully",
+        "name": "Overture to Pha\u00ebton",
+        "spotify": {
+          "id": "5WUU1bkoCrSl6wfPM6VVx9",
+          "url": "https://open.spotify.com/track/5WUU1bkoCrSl6wfPM6VVx9",
+          "name": "Overture: Gay - Lentement",
+          "artists": [
+            {
+              "id": "19v0Cnq5D4SKom8SVlXhkw",
+              "name": "Jean-Baptiste Lully"
+            }
+          ],
+          "released": "2012-04-03"
+        },
+        "chosen_by": "Heidi Fardell",
+        "connection": "Cultural hub of Paris as a setting; an Italian in Paris (Lully) following an American in Paris (Gershwin).",
+        "timestamp": "17:03"
+      },
+      {
+        "artist": "Patti Smith",
+        "name": "Ain\u2019t It Strange",
+        "spotify": {
+          "id": "4Q0gexDyqLyLHmnktsn0KQ",
+          "url": "https://open.spotify.com/track/4Q0gexDyqLyLHmnktsn0KQ",
+          "name": "Ain't It Strange",
+          "artists": [
+            {
+              "id": "0vYkHhJ48Bs3jWcvZXvOrP",
+              "name": "Patti Smith"
+            }
+          ],
+          "released": "1976"
+        },
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "Musicians injured on stage: Lully stabbed his foot with a conducting staff; Patti Smith fell off stage, breaking vertebrae and skull.",
+        "timestamp": "23:41"
+      },
+      {
+        "artist": "J.S. Bach",
+        "name": "Violin Partita No. 2 in D Minor (the Chaconne)",
+        "spotify": {
+          "id": "6lsDKnJ7CMBzBM4WDaVZ7a",
+          "url": "https://open.spotify.com/track/6lsDKnJ7CMBzBM4WDaVZ7a",
+          "name": "Violin Partita No. 2 in D Minor, BWV 1004: V. Chaconne (Arr. J. Milone for Violin & Orchestra)",
+          "artists": [
+            {
+              "id": "5aIqB5nVVvmFsvSdExz408",
+              "name": "Johann Sebastian Bach"
+            },
+            {
+              "id": "3Ka1nDpDzxDveEqUPzIeom",
+              "name": "Joshua Bell"
+            },
+            {
+              "id": "77CaCn32H4mOMQA7UElzfF",
+              "name": "Academy of St. Martin in the Fields"
+            }
+          ],
+          "released": "2014-09-29"
+        },
+        "chosen_by": "Anna Phoebe",
+        "connection": "Busking: Patti Smith busked in Paris (1969) and Manhattan (2020); Joshua Bell (performing Bach's Chaconne) busked in a Washington D.C. subway station.",
+        "timestamp": "31:03"
+      }
+    ],
+    "other_tracks": [],
+    "series": 17,
+    "episode": 1
+  },
+  {
+    "id": "m002ww1h",
+    "url": "https://www.bbc.co.uk/programmes/m002ww1h",
+    "broadcast": "2026-06-02T11:00:00+01:00",
+    "playlist_tracks": [
+      {
+        "artist": "Ray Charles",
+        "name": "Mess Around",
+        "spotify": {
+          "id": "4uTNtDoAD3bNlTLlvan9Rr",
+          "url": "https://open.spotify.com/track/4uTNtDoAD3bNlTLlvan9Rr",
+          "name": "Mess Around",
+          "artists": [
+            {
+              "id": "1eYhYunlNJlDoQhtYBvPsi",
+              "name": "Ray Charles"
+            }
+          ],
+          "released": "2024-01-05"
+        },
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "Both Bach and Ray Charles were orphaned as children (Bach at 10, Ray Charles at 15).",
+        "timestamp": "03:17"
+      },
+      {
+        "artist": "Mozart",
+        "name": "Kyrie from the Mass in C Minor",
+        "spotify": {
+          "id": "7mHmDZHm9M6WjVWQ4ylsAs",
+          "url": "https://open.spotify.com/track/7mHmDZHm9M6WjVWQ4ylsAs",
+          "name": "Mass in C Minor, K. 427 \"Grosse Messe\" (Rev. and Reconstr. A. Schmitt & E. Gardiner): 1. Kyrie",
+          "artists": [
+            {
+              "id": "4NJhFmfw43RLBLjQvxDuRS",
+              "name": "Wolfgang Amadeus Mozart"
+            }
+          ],
+          "released": "1987-11-11"
+        },
+        "chosen_by": "Keelan Carew",
+        "connection": "Genius and biopics: Ray Charles (film \"Ray\") and Mozart (film \"Amadeus\").",
+        "timestamp": "11:00"
+      },
+      {
+        "artist": "Nick Drake",
+        "name": "From the Morning",
+        "spotify": {
+          "id": "6meH4I9A4WZtD3z8hnQKqr",
+          "url": "https://open.spotify.com/track/6meH4I9A4WZtD3z8hnQKqr",
+          "name": "From The Morning",
+          "artists": [
+            {
+              "id": "5c3GLXai8YOMid29ZEuR9y",
+              "name": "Nick Drake"
+            }
+          ],
+          "released": "1972-02-25"
+        },
+        "chosen_by": "Fiona Bevan",
+        "connection": "Both Mozart and Nick Drake created profoundly meaningful work at age 26.",
+        "timestamp": "18:21"
+      },
+      {
+        "artist": "Eva Cassidy",
+        "name": "Fields of Gold",
+        "spotify": {
+          "id": "5vtOJrmovXGxGsnAck694H",
+          "url": "https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H",
+          "name": "Fields Of Gold (Songbird)",
+          "artists": [
+            {
+              "id": "6fNmOWQzfOVyHLQ2UqUQew",
+              "name": "Eva Cassidy"
+            }
+          ],
+          "released": "1998-05-19"
+        },
+        "chosen_by": "Anna Phoebe",
+        "connection": "Posthumous success: Nick Drake sold few copies in his lifetime but became hugely streamed; Eva Cassidy only found global fame after her death.",
+        "timestamp": "25:18"
+      },
+      {
+        "artist": "Ike & Tina Turner",
+        "name": "Proud Mary",
+        "spotify": {
+          "id": "3Y9gdFK3vB5hksRx1xIf23",
+          "url": "https://open.spotify.com/track/3Y9gdFK3vB5hksRx1xIf23",
+          "name": "Proud Mary",
+          "artists": [
+            {
+              "id": "1ZikppG9dPedbIgMfnfx8k",
+              "name": "Ike & Tina Turner"
+            }
+          ],
+          "released": "2008-01-01"
+        },
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "Covers that outshine or rival the original: Eva Cassidy's \"Fields of Gold\" (Sting cover) and Ike & Tina Turner's \"Proud Mary\" (Credence Clearwater Revival cover).",
+        "timestamp": "32:16"
+      }
+    ],
+    "other_tracks": [],
+    "series": 17,
+    "episode": 2
+  },
+  {
+    "id": "m002x5sx",
+    "url": "https://www.bbc.co.uk/programmes/m002x5sx",
+    "broadcast": "2026-06-09T11:00:00+01:00",
+    "playlist_tracks": [
+      {
+        "artist": "Verdi",
+        "name": "Quartet from Rigoletto",
+        "spotify": {
+          "id": "7qwCHnsyDHIjdnGbafqjd2",
+          "url": "https://open.spotify.com/track/7qwCHnsyDHIjdnGbafqjd2",
+          "name": "Quartett (From \"Rigoletto\")",
+          "artists": [
+            {
+              "id": "1JOQXgYdQV2yfrhewqx96o",
+              "name": "Giuseppe Verdi"
+            }
+          ],
+          "released": "1982-01-01"
+        },
+        "chosen_by": "Nicky Spence",
+        "connection": "Steamboats: the \"Proud Mary\" was a real steam-powered boat, and a steamboat features prominently in the film \"Fitzcarraldo\", which uses Verdi's music.",
+        "timestamp": "02:48"
+      },
+      {
+        "artist": "Chabuca Granda",
+        "name": "La Flor de la Canela",
+        "spotify": {
+          "id": "3ciDewwDbazjc7UnDtY4nA",
+          "url": "https://open.spotify.com/track/3ciDewwDbazjc7UnDtY4nA",
+          "name": "La Flor De La Canela",
+          "artists": [
+            {
+              "id": "5tEUnEwJfkZDP2ZuLy4Fzu",
+              "name": "Chabuca Granda"
+            }
+          ],
+          "released": "1980-01-01"
+        },
+        "chosen_by": "Anna Phoebe",
+        "connection": "Peru and its rivers: the Amazon river system in \"Fitzcarraldo\" and the R\u00edmac river in Lima, celebrated in Chabuca Granda's song \"La Flor de la Canela\".",
+        "timestamp": "10:35"
+      },
+      {
+        "artist": "Chopin",
+        "name": "The Minute Waltz",
+        "spotify": {
+          "id": "3voxMGgqyTqPvyQauiaIb4",
+          "url": "https://open.spotify.com/track/3voxMGgqyTqPvyQauiaIb4",
+          "name": "Waltz No. 6 in D-Flat Major, Op. 64 No. 1 \"Minute\" - Remastered",
+          "artists": [
+            {
+              "id": "7y97mc3bZRFXzT2szRM4L4",
+              "name": "Fr\u00e9d\u00e9ric Chopin"
+            }
+          ],
+          "released": "2004-04-16"
+        },
+        "chosen_by": "Lucy Parham",
+        "connection": "The waltz: Chabuca Granda's \"Vals Criollo\" (Peruvian waltz) adapts European waltzes, exemplified by Chopin's \"Minute Waltz\".",
+        "timestamp": "16:49"
+      },
+      {
+        "artist": "Arthur Wood",
+        "name": "My Native Heath, Suite IV: Barwick Green",
+        "spotify": {
+          "id": "3hJZ2WfaPKeKRC4ESiPqam",
+          "url": "https://open.spotify.com/track/3hJZ2WfaPKeKRC4ESiPqam",
+          "name": "Wood, Arthur: My Native Heath, Suite: IV. Barwick Green",
+          "artists": [
+            {
+              "id": "6c37v5dkhxzdddf1B4b2AK",
+              "name": "Arthur Wood"
+            },
+            {
+              "id": "2YCxRyEX6q67ijtOUyIvio",
+              "name": "Sidney Torch"
+            }
+          ],
+          "released": "2008-07-07"
+        },
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "Classic BBC Radio 4 theme tunes: Chopin's \"Minute Waltz\" is the theme for \"Just a Minute\"; Arthur Wood's \"Barwick Green\" is the theme for \"The Archers\".",
+        "timestamp": "25:23"
+      },
+      {
+        "artist": "Celine Dion",
+        "name": "The Reason",
+        "spotify": {
+          "id": "4CiIB7eCQ7IVmrCFqvi7f9",
+          "url": "https://open.spotify.com/track/4CiIB7eCQ7IVmrCFqvi7f9",
+          "name": "The Reason",
+          "artists": [
+            {
+              "id": "4S9EykWXhStSc15wEx8QFK",
+              "name": "C\u00e9line Dion"
+            }
+          ],
+          "released": "1997-11-14"
+        },
+        "chosen_by": "Anna Phoebe",
+        "connection": "Producers: \"Barwick Green\" was produced (as a recording) by Sir George Martin, who also produced Celine Dion's \"The Reason\".",
+        "timestamp": "33:50"
+      }
+    ],
+    "other_tracks": [],
+    "series": 17,
+    "episode": 3
+  },
+  {
+    "id": "m002xgxp",
+    "url": "https://www.bbc.co.uk/programmes/m002xgxp",
+    "broadcast": "2026-06-16T11:00:00+01:00",
+    "playlist_tracks": [
+      {
+        "artist": "Jimmy Cliff",
+        "name": "Miss Jamaica",
+        "spotify": {
+          "id": "4gurkYsVp5oWcITg1b5eB4",
+          "url": "https://open.spotify.com/track/4gurkYsVp5oWcITg1b5eB4",
+          "name": "Miss Jamaica - Remastered",
+          "artists": [
+            {
+              "id": "3rJ3m1tM6vUgiWLjfV8sRf",
+              "name": "Jimmy Cliff"
+            }
+          ],
+          "released": "2016-08-25"
+        },
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "Celine Dion is beloved in Jamaica (honorary Jamaican) and Jimmy Cliff's \"Miss Jamaica\" is an ode to the country.",
+        "timestamp": "06:00"
+      },
+      {
+        "artist": "David Essex",
+        "name": "Rock On",
+        "spotify": {
+          "id": "0uPIwcT6OdJ5BAJdYkxVp9",
+          "url": "https://open.spotify.com/track/0uPIwcT6OdJ5BAJdYkxVp9",
+          "name": "Rock On",
+          "artists": [
+            {
+              "id": "46n0cAhBmsRJZiX6GSFmbf",
+              "name": "David Essex"
+            }
+          ],
+          "released": "1973"
+        },
+        "chosen_by": "Guy Pratt",
+        "connection": "Bass guitar: the bass is barely audible in Jimmy Cliff's 1962 recording due to recording quality, so Guy chose \"Rock On\" which is built entirely around prominent bass guitar.",
+        "timestamp": "13:00"
+      },
+      {
+        "artist": "Tchaikovsky",
+        "name": "Finale of Symphony No 6 in B Minor",
+        "spotify": {
+          "id": "37Sx42ecraWiai21ZiW6se",
+          "url": "https://open.spotify.com/track/37Sx42ecraWiai21ZiW6se",
+          "name": "Symphony No. 6 in B Minor, Op. 74 \"Path\u00e9tique\": IV. Finale. Adagio lamentoso \u2013 Andante",
+          "artists": [
+            {
+              "id": "3MKCzCnpzw3TjUYs2v7vDA",
+              "name": "Pyotr Ilyich Tchaikovsky"
+            }
+          ],
+          "released": "2019-05-10"
+        },
+        "chosen_by": "Amy Harman",
+        "connection": "Heartbeat rhythm: the hypnotic heartbeat opening of \"Rock On\" connects to the heartbeat motif at the end of Tchaikovsky's Path\u00e9tique Symphony finale.",
+        "timestamp": "20:09",
+        "comments": "Second time a heartbeat-related connection has been made (Mahler's arrhythmic heartbeat was used as a connection in series 8, episode 4)."
+      },
+      {
+        "artist": "Meara O\u2019Reilly",
+        "name": "Hockets for Two Voices: 1",
+        "spotify": {
+          "id": "3E3RxreGUZ1lW9M51rdL3L",
+          "url": "https://open.spotify.com/track/3E3RxreGUZ1lW9M51rdL3L",
+          "name": "I. \u2014",
+          "artists": [
+            {
+              "id": "69Rh8L9EMTMHq2HVhwBeBr",
+              "name": "Meara O'Reilly"
+            }
+          ],
+          "released": "2019-10-25"
+        },
+        "chosen_by": "Anna Phoebe",
+        "connection": "Hocketing technique: Tchaikovsky uses hocketing (alternating notes between first and second violins) in the Path\u00e9tique opening; Meara O'Reilly's \"Hockets for Two Voices\" is built entirely on this device.",
+        "timestamp": "27:09"
+      },
+      {
+        "artist": "Philip Glass",
+        "name": "Knee Play 5 from Einstein on the Beach",
+        "spotify": {
+          "id": "6TNob3YVdj2BerED5hcxoI",
+          "url": "https://open.spotify.com/track/6TNob3YVdj2BerED5hcxoI",
+          "name": "Einstein on the Beach: Knee Play 5",
+          "artists": [
+            {
+              "id": "69lxxQvsfAIoQbB20bEPFC",
+              "name": "Philip Glass"
+            }
+          ],
+          "released": "1979"
+        },
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "The Kitchen (New York avant-garde arts centre): Meara O'Reilly performed \"Hockets for Two Voices\" there in 2016; Philip Glass developed and performed \"Einstein on the Beach\" (including \"Knee Play 5\") there in the 1970s.",
+        "timestamp": "34:05"
+      }
+    ],
+    "other_tracks": [],
+    "series": 17,
+    "episode": 4
+  },
+  {
+    "id": "m002xpcn",
+    "url": "https://www.bbc.co.uk/programmes/m002xpcn",
+    "broadcast": "2026-06-23T11:00:00+01:00",
+    "playlist_tracks": [
+      {
+        "artist": "Manfred Mann",
+        "name": "5-4-3-2-1",
+        "spotify": {
+          "id": "0iqAzPhV1jbOLoXM0cYmpV",
+          "url": "https://open.spotify.com/track/0iqAzPhV1jbOLoXM0cYmpV",
+          "name": "5-4-3-2-1",
+          "artists": [
+            {
+              "id": "5670CyWrIOA7702gNjsGMZ",
+              "name": "Manfred Mann"
+            }
+          ],
+          "released": "1963"
+        },
+        "chosen_by": "Anna Phoebe",
+        "connection": "Counting in songs: Philip Glass's \"Knee Play 5\" features counting (originally placeholders for lyrics); Manfred Mann's \"5-4-3-2-1\" counts down.",
+        "timestamp": "03:24"
+      },
+      {
+        "artist": "Tchaikovsky",
+        "name": "Dance of the Mirlitons from The Nutcracker",
+        "spotify": {
+          "id": "3fHzDhoj8lSgJWxknvEyp6",
+          "url": "https://open.spotify.com/track/3fHzDhoj8lSgJWxknvEyp6",
+          "name": "The Nutcracker Suite, Op. 71a: IIf. Dance of the Reed-Pipes",
+          "artists": [
+            {
+              "id": "3MKCzCnpzw3TjUYs2v7vDA",
+              "name": "Pyotr Ilyich Tchaikovsky"
+            }
+          ],
+          "released": "1996-01-01"
+        },
+        "chosen_by": "Claire Wickes",
+        "connection": "Chocolate bar adverts: Manfred Mann's \"5-4-3-2-1\" was used in an advert for a chocolate bar of the same name; Tchaikovsky's \"Dance of the Mirlitons\" was used in Cadbury's Fruit and Nut adverts.",
+        "timestamp": "09:39"
+      },
+      {
+        "artist": "Langston Hughes",
+        "name": "The Weary Blues",
+        "spotify": {
+          "id": "3qyQFsApQVl9qlnBv6NJKt",
+          "url": "https://open.spotify.com/track/3qyQFsApQVl9qlnBv6NJKt",
+          "name": "The Weary Blues",
+          "artists": [
+            {
+              "id": "1mNcebzTg5QlHEY4WYhLSm",
+              "name": "Langston Hughes"
+            }
+          ],
+          "released": "2011-07-04"
+        },
+        "chosen_by": "Ashley Henry",
+        "connection": "Literature adapted into music: Tchaikovsky's \"Nutcracker\" is based on Hoffmann's story; Langston Hughes's \"The Weary Blues\" is a sonic adaptation of his own poem, with music by Charles Mingus.",
+        "timestamp": "18:00"
+      },
+      {
+        "artist": "Mar\u00eda Teresa Vera",
+        "name": "Boda Negra",
+        "spotify": {
+          "id": "1kfISl43gv2ehAeToZDSFS",
+          "url": "https://open.spotify.com/track/1kfISl43gv2ehAeToZDSFS",
+          "name": "Boda negra",
+          "artists": [
+            {
+              "id": "0K2uwmxSdZBPHmtBz54ELR",
+              "name": "Maria Teresa Vera"
+            }
+          ],
+          "released": "2016-03-16"
+        },
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "Cultural movements celebrating Black heritage: the Harlem Renaissance (Langston Hughes) and the Cuban Negrismo movement (Mar\u00eda Teresa Vera's \"Boda Negra\").",
+        "timestamp": "25:09"
+      },
+      {
+        "artist": "Pet Shop Boys",
+        "name": "West End Girls",
+        "spotify": {
+          "id": "5Dqik1P9toCJTLj5rEm78s",
+          "url": "https://open.spotify.com/track/5Dqik1P9toCJTLj5rEm78s",
+          "name": "West End Girls",
+          "artists": [
+            {
+              "id": "2ycnb8Er79LoH2AsR5ldjh",
+              "name": "Pet Shop Boys"
+            }
+          ],
+          "released": "1998-03-31"
+        },
+        "chosen_by": "Anna Phoebe",
+        "connection": "Long-standing musical partnerships: Mar\u00eda Teresa Vera's duo with Lorenzo Hierrezuelo lasted 27 years; Pet Shop Boys (Neil Tennant and Chris Lowe) have worked together continuously since 1981.",
+        "timestamp": "32:32"
+      }
+    ],
+    "other_tracks": [],
+    "series": 17,
+    "episode": 5
+  },
+  {
+    "id": "m002y257",
+    "url": "https://www.bbc.co.uk/programmes/m002y257",
+    "broadcast": "2026-06-30T11:00:00+01:00",
+    "playlist_tracks": [
+      {
+        "artist": "Prince",
+        "name": "When Doves Cry",
+        "spotify": {
+          "id": "6sby78fghipoXHQLeeZFFH",
+          "url": "https://open.spotify.com/track/6sby78fghipoXHQLeeZFFH",
+          "name": "When Doves Cry",
+          "artists": [
+            {
+              "id": "5a2EaR3hamoenG9rDuVn8j",
+              "name": "Prince"
+            }
+          ],
+          "released": "1984-06-25"
+        },
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "Yamaha DX7 synthesizer: central to the sound of \"West End Girls\" and also featured prominently on Prince's \"When Doves Cry\".",
+        "timestamp": "03:51"
+      },
+      {
+        "artist": "Ella Fitzgerald",
+        "name": "Slap That Bass",
+        "spotify": {
+          "id": "4Enuh7yHBp1L4LrDYwl91y",
+          "url": "https://open.spotify.com/track/4Enuh7yHBp1L4LrDYwl91y",
+          "name": "Slap That Bass",
+          "artists": [
+            {
+              "id": "5V0MlUE1Bft0mbLlND7FJz",
+              "name": "Ella Fitzgerald"
+            }
+          ],
+          "released": "1959-01-01"
+        },
+        "chosen_by": "Tom Seals",
+        "connection": "The bass: Prince famously removed the bass line from \"When Doves Cry\"; Ella Fitzgerald's \"Slap That Bass\" celebrates the instrument.",
+        "timestamp": "11:25"
+      },
+      {
+        "artist": "Maurice Ravel",
+        "name": "La Valse",
+        "spotify": {
+          "id": "7lTqxYIhodLVvpyhNTeFgw",
+          "url": "https://open.spotify.com/track/7lTqxYIhodLVvpyhNTeFgw",
+          "name": "La valse, M.72",
+          "artists": [
+            {
+              "id": "17hR0sYHpx7VYTMRfFUOmY",
+              "name": "Maurice Ravel"
+            }
+          ],
+          "released": "1982-01-01"
+        },
+        "chosen_by": "Anna Phoebe",
+        "connection": "Gershwin and Ravel: Gershwin wanted to study with Ravel, who refused, saying \"why become a second-rate Ravel when you're already a first-rate Gershwin?\"; the track moves from Gershwin (\"Slap That Bass\") to Ravel (\"La Valse\").",
+        "timestamp": "17:49"
+      },
+      {
+        "artist": "The Boomtown Rats",
+        "name": "Like Clockwork",
+        "spotify": {
+          "id": "64hsFEXIjs8489ukHxN1OE",
+          "url": "https://open.spotify.com/track/64hsFEXIjs8489ukHxN1OE",
+          "name": "Like Clockwork",
+          "artists": [
+            {
+              "id": "40oYPr305MsT2lsiXr9fX9",
+              "name": "The Boomtown Rats"
+            }
+          ],
+          "released": "1978"
+        },
+        "chosen_by": "Debbie Wiseman",
+        "connection": "Ravel's fascination with mechanical clocks and timepieces links to The Boomtown Rats' \"Like Clockwork\", with its rhythmic, clock-like pulse.",
+        "timestamp": "25:22"
+      },
+      {
+        "artist": "Panjabi MC",
+        "name": "Mundian To Bach Ke",
+        "spotify": {
+          "id": "3ckCk1ObazzQWCirPoI4qU",
+          "url": "https://open.spotify.com/track/3ckCk1ObazzQWCirPoI4qU",
+          "name": "Mundian to Bach Ke",
+          "artists": [
+            {
+              "id": "74D1UgRzMhTSPz698exXmR",
+              "name": "Panjabi MC"
+            }
+          ],
+          "released": "2003"
+        },
+        "chosen_by": "Jeffrey Boakye",
+        "connection": "Songs that launched radio stations: \"Like Clockwork\" was the first track played on RT\u00c9 Radio 2 in 1979; \"Mundian To Bach Ke\" was the first track played on the BBC Asian Network's digital relaunch in 2002.",
+        "timestamp": "32:36"
+      }
+    ],
+    "other_tracks": [],
+    "series": 17,
+    "episode": 6
   }
 ]
